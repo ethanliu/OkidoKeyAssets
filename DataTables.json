@@ -367,39 +367,39 @@
     ],
     "splits": {
         "NewCJ3.cin.db": {
-            "gitee": 10,
-            "github": 5
+            "gitee": 11,
+            "github": 6
         },
         "array10a.cin.db": {
             "gitee": 3,
             "github": 2
         },
         "array10b.cin.db": {
-            "gitee": 6,
-            "github": 3
+            "gitee": 7,
+            "github": 4
         },
         "array10c.cin.db": {
-            "gitee": 8,
-            "github": 4
+            "gitee": 9,
+            "github": 5
         },
         "array26.cin.db": {
             "gitee": 2,
             "github": 1
         },
         "array30-OkidoKey-big.cin.db": {
-            "gitee": 8,
-            "github": 4
+            "gitee": 9,
+            "github": 5
         },
         "array30-OkidoKey.cin.db": {
             "gitee": 3,
             "github": 2
         },
         "array30.cin.db": {
-            "gitee": 8,
-            "github": 4
+            "gitee": 9,
+            "github": 5
         },
         "array40.cin.db": {
-            "gitee": 1,
+            "gitee": 2,
             "github": 1
         },
         "biaoyin.cin.db": {
@@ -419,7 +419,7 @@
             "github": 1
         },
         "cangjie6.cin.db": {
-            "gitee": 7,
+            "gitee": 8,
             "github": 4
         },
         "cj-j.cin.db": {
@@ -431,7 +431,7 @@
             "github": 1
         },
         "cj5.cin.db": {
-            "gitee": 1,
+            "gitee": 2,
             "github": 1
         },
         "corner.cin.db": {
@@ -459,16 +459,16 @@
             "github": 2
         },
         "ghcm.cin.db": {
-            "gitee": 55,
-            "github": 28
+            "gitee": 60,
+            "github": 30
         },
         "jidianwubi.cin.db": {
-            "gitee": 6,
-            "github": 3
+            "gitee": 7,
+            "github": 4
         },
         "jinjin.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "gitee": 3,
+            "github": 2
         },
         "jtcj.cin.db": {
             "gitee": 1,
@@ -495,15 +495,15 @@
             "github": 1
         },
         "ov_ez75.cin.db": {
-            "gitee": 25,
-            "github": 13
+            "gitee": 29,
+            "github": 15
         },
         "pictograph.cin.db": {
             "gitee": 1,
             "github": 1
         },
         "pinyin.cin.db": {
-            "gitee": 5,
+            "gitee": 6,
             "github": 3
         },
         "pinyinbig5.cin.db": {
@@ -551,7 +551,7 @@
             "github": 1
         },
         "tcj.cin.db": {
-            "gitee": 1,
+            "gitee": 2,
             "github": 1
         },
         "tp_hakka_hl.cin.db": {
@@ -563,7 +563,7 @@
             "github": 1
         },
         "wu.cin.db": {
-            "gitee": 1,
+            "gitee": 2,
             "github": 1
         },
         "wus.cin.db": {
@@ -575,5 +575,5 @@
             "github": 1
         }
     },
-    "version": "20230816151005"
+    "version": "20230817180214"
 }
