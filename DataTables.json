@@ -64,13 +64,6 @@
             "path": "table/array40.cin.db"
         },
         {
-            "cname": "表音",
-            "ename": "Biaoyin",
-            "license": "Version 2.3, November 2007\nEric Rasmussen <hello.rasmus@gmail.com>\nCovers Pinyin, MPS-2, Yale\nOmits ê\nSpecial thanks to OpenVanilla.org for converting the data table",
-            "name": "",
-            "path": "table/biaoyin.cin.db"
-        },
-        {
             "cname": "注音-許氏鍵盤",
             "ename": "PhoneticHsu",
             "license": "",
@@ -97,13 +90,6 @@
             "license": "此碼表依 rime-cangjie6 v0.31 轉換為 cin 格式 2018-01-16\n\n\n單字碼表自百度貼吧「倉頡」吧網友风易辞得\n又：\n蒼頡六代構詞碼碼表\n由雪齋、惜緣整理於 2013-01-29\ncrazy4u 根据雪齋發佈的碼表增二萬餘字 2013-02-19\ncrazy4u 增易經八卦符號 2013-03-26\n單字編碼兼顧宋體、細明體字形 crazy4u 2013-04-02\n又增一千字 crazy4u 2013-04-27\n增加組詞分隔符、正體字字頻 雪齋 2013-05-30\n採用相對字頻 雪齋 2013-12-09\n增加擴展 E 區字 雪齋 2014-11-03\n\n本字表收中日韓越統一表意文字及其擴展 A、B、C、D、E 區另加相容表意文字區之 12 箇獨立字、相容表意文字擴充區 28 箇獨立字。\n取碼依宋體及明體。另：擴展 B 區有三個重複收錄字，本表錄之，但加「#」註。\n\n\nLicense: GPL",
             "name": "",
             "path": "table/cangjie6.cin.db"
-        },
-        {
-            "cname": "倉頡-J",
-            "ename": "Cangjie-J",
-            "license": "ChangJei input method table for UTF-8 encoding.\n\nThis table also extended to include HKSCS encodings. For details, see\n\thttp://www.info.gov.hk/digital21/chi/hkscs/index.html\n\n\tPunctuations modified by Janus Ng on Dec 30, 2004",
-            "name": "",
-            "path": "table/cj-j.cin.db"
         },
         {
             "cname": "倉頡",
@@ -402,10 +388,6 @@
             "gitee": 2,
             "github": 1
         },
-        "biaoyin.cin.db": {
-            "gitee": 1,
-            "github": 1
-        },
         "bpmf-Hsu.cin.db": {
             "gitee": 3,
             "github": 2
@@ -421,10 +403,6 @@
         "cangjie6.cin.db": {
             "gitee": 8,
             "github": 4
-        },
-        "cj-j.cin.db": {
-            "gitee": 2,
-            "github": 1
         },
         "cj.cin.db": {
             "gitee": 2,
@@ -575,5 +553,5 @@
             "github": 1
         }
     },
-    "version": "20230817180214"
+    "version": "20230818172510"
 }
