@@ -134,13 +134,6 @@
             "path": "table/dayi3.cin.db"
         },
         {
-            "cname": "大易四碼",
-            "ename": "DaYi4",
-            "license": "本表格由太易資訊公司 (http://www.dayi.com) 授權，開放給使用者下載使用。\n\n使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格\n的格式以適合其他平台或輸入法軟體使用。",
-            "name": "",
-            "path": "table/dayi4.cin.db"
-        },
-        {
             "cname": "自由大新",
             "ename": "FreeNewCJ",
             "license": "自由大新倉頡專業 7.0 國際版\n網址: http://cle.linux.org.tw/trac/wiki/FreeNewCJCin\n原版商業公司: http://www.eztyping.com.tw/\ncopyright (c) 2006-2007 by FreeNewCJCin\n格式轉換 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007\n授權方式: Public Domain",
@@ -428,10 +421,6 @@
             "gitee": 2,
             "github": 1
         },
-        "dayi4.cin.db": {
-            "gitee": 2,
-            "github": 1
-        },
         "freenewcj.cin.db": {
             "gitee": 3,
             "github": 2
@@ -553,5 +542,5 @@
             "github": 1
         }
     },
-    "version": "20230818172510"
+    "version": "20230928181319"
 }
