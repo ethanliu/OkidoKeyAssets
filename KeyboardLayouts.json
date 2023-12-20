@@ -1,6 +1,7 @@
 {
     "charsets": {
         "array": {
+            "category": "array",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0]",
                 "[Q:1⇡][W:2⇡][E:3⇡][R:4⇡][T:5⇡][Y:6⇡][U:7⇡][I:8⇡][O:9⇡][P:0⇡]",
@@ -11,6 +12,7 @@
             "description": "行列"
         },
         "array-flick-choco": {
+            "category": "array",
             "charsets": [
                 "[esc][1][2][3][del]",
                 "[\"][4][5][6][⇡*]",
@@ -80,6 +82,7 @@
             }
         },
         "array-fullsize": {
+            "category": "array",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q:1⇡][W:2⇡][E:3⇡][R:4⇡][T:5⇡][Y:6⇡][U:7⇡][I:8⇡][O:9⇡][P:0⇡][[][]][\\]",
@@ -90,6 +93,7 @@
             "description": "行列"
         },
         "array-keypad1-choco": {
+            "category": "array",
             "charsets": [
                 "[esc][1][2][3][del]",
                 "[w*:w][4][5][6][(]",
@@ -99,6 +103,7 @@
             "description": "行列(數字1)"
         },
         "array-keypad2-choco": {
+            "category": "array",
             "charsets": [
                 "[esc][1][2][3][del]",
                 "[(][4][5][6][：]",
@@ -109,6 +114,7 @@
             "description": "行列(數字2)"
         },
         "array-pad": {
+            "category": "array",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0]",
                 "[Q:1⇡][W:2⇡][E:3⇡][R:4⇡][T:5⇡][Y:6⇡][U:7⇡][I:8⇡][O:9⇡][P:0⇡]",
@@ -119,6 +125,7 @@
             "description": "行列"
         },
         "array-position1-choco": {
+            "category": "array",
             "charsets": [
                 "[esc][1][2][3][del]",
                 "[w*:w][4][5][6][，]",
@@ -129,6 +136,7 @@
             "description": "行列(方向鍵1)"
         },
         "array10-choco": {
+            "category": "array",
             "charsets": [
                 "[1][2][3]",
                 "[4][5][6]",
@@ -139,6 +147,7 @@
             "description": "行列10"
         },
         "array10-k14-flick-choco": {
+            "category": "array",
             "charsets": [
                 "[(][1][2][3][\"]",
                 "[)][4][5][6][']",
@@ -219,6 +228,7 @@
             }
         },
         "array10-layout2-choco": {
+            "category": "array",
             "charsets": [
                 "[esc][1][2][3][del]",
                 "[(][4][5][6][：]",
@@ -229,6 +239,7 @@
             "description": "行列10"
         },
         "array10-pad": {
+            "category": "array",
             "charsets": [
                 "[，][1][2][3][『]",
                 "[。][4][5][6][']",
@@ -239,6 +250,7 @@
             "description": "行列10"
         },
         "azerty": {
+            "category": "azerty",
             "charsets": [
                 "[A][Z][E][R][T][Y][U][I][O][P]",
                 "[dummy:2][Q][S][D][F][G][H][J][K][L][M][dummy:2]",
@@ -248,6 +260,7 @@
             "description": "AZERTY"
         },
         "azerty-fullsize": {
+            "category": "azerty",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][A][Z][E][R][T][Y][U][I][O][P][[][]][\\]",
@@ -258,6 +271,7 @@
             "description": "AZERTY"
         },
         "azerty-pad": {
+            "category": "azerty",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[A][Z][E][R][T][Y][U][I][O][P][del]",
@@ -268,6 +282,7 @@
             "description": "AZERTY"
         },
         "boshiamy": {
+            "category": "boshiamy",
             "charsets": [
                 "[Q][W][E][R][T][Y][U][I][O][P]",
                 "[dummy:2][A][S][D][F][G][H][J][K][L][dummy:2]",
@@ -277,6 +292,7 @@
             "description": "嘸蝦米"
         },
         "boshiamy-num": {
+            "category": "boshiamy",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0]",
                 "[Q][W][E][R][T][Y][U][I][O][P]",
@@ -287,6 +303,7 @@
             "description": "嘸蝦米含數字"
         },
         "bpmf": {
+            "category": "bpmf",
             "charsets": [
                 "[1:ㄅ][2:ㄉ][3:ˇ][4:ˋ][5:ㄓ][6:ˊ][7:˙][8:ㄚ][9:ㄞ][0:ㄢ][-:ㄦ]",
                 "[Q:ㄆ][W:ㄊ][E:ㄍ][R:ㄐ][T:ㄔ][Y:ㄗ][U:ㄧ][I:ㄛ][O:ㄟ][P:ㄣ]",
@@ -297,6 +314,7 @@
             "description": "注音"
         },
         "bpmf-et26": {
+            "category": "bpmf",
             "charsets": [
                 "[Q:ㄗㄟ][W:ㄘㄝ][E:ㄧ][R:ㄜ][T:ㄊㄤ][Y:ㄔ][U:ㄩ][I:ㄞ][O:ㄛ][P:ㄆㄡ]",
                 "[A:ㄚ][S:ㄙ][D:ㄉ˙][F:ㄈˊ][G:ㄐㄓ][H:ㄏㄦ][J:ㄖˇ][K:ㄎˋ][L:ㄌㄥ]",
@@ -307,6 +325,7 @@
             "keynameType": "label"
         },
         "bpmf-et26-fullsize": {
+            "category": "bpmf",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q:ㄗㄟ][W:ㄘㄝ][E:ㄧ][R:ㄜ][T:ㄊㄤ][Y:ㄔ][U:ㄩ][I:ㄞ][O:ㄛ][P:ㄆㄡ][[][]][\\]",
@@ -318,6 +337,7 @@
             "keynameType": "label"
         },
         "bpmf-et26-pad": {
+            "category": "bpmf",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[Q:ㄗㄟ][W:ㄘㄝ][E:ㄧ][R:ㄜ][T:ㄊㄤ][Y:ㄔ][U:ㄩ][I:ㄞ][O:ㄛ][P:ㄆㄡ][del]",
@@ -329,6 +349,7 @@
             "keynameType": "label"
         },
         "bpmf-et41": {
+            "category": "bpmf",
             "charsets": [
                 "[1:˙][2:ˊ][3:ˇ][4:ˋ][5][6][7:ㄑ][8:ㄢ][9:ㄣ][0:ㄤ][-:ㄥ][=:ㄦ]",
                 "[Q:ㄟ][W:ㄝ][E:ㄧ][R:ㄜ][T:ㄊ][Y:ㄡ][U:ㄩ][I:ㄞ][O:ㄛ][P:ㄆ]",
@@ -340,6 +361,7 @@
             "keynameType": "label"
         },
         "bpmf-et41-fullsize": {
+            "category": "bpmf",
             "charsets": [
                 "[`][1:˙][2:ˊ][3:ˇ][4:ˋ][5][6][7:ㄑ][8:ㄢ][9:ㄣ][0:ㄤ][-:ㄥ][=:ㄦ][del]",
                 "[tab][Q:ㄟ][W:ㄝ][E:ㄧ][R:ㄜ][T:ㄊ][Y:ㄡ][U:ㄩ][I:ㄞ][O:ㄛ][P:ㄆ][[][]][\\]",
@@ -351,6 +373,7 @@
             "keynameType": "label"
         },
         "bpmf-et41-pad": {
+            "category": "bpmf",
             "charsets": [
                 "[1:˙][2:ˊ][3:ˇ][4:ˋ][5][6][7:ㄑ][8:ㄢ][9:ㄣ][0:ㄤ][-:ㄥ][=:ㄦ]",
                 "[Q:ㄟ][W:ㄝ][E:ㄧ][R:ㄜ][T:ㄊ][Y:ㄡ][U:ㄩ][I:ㄞ][O:ㄛ][P:ㄆ][del]",
@@ -362,6 +385,7 @@
             "keynameType": "label"
         },
         "bpmf-fullsize": {
+            "category": "bpmf",
             "charsets": [
                 "[`][1:ㄅ][2:ㄉ][3:ˇ][4:ˋ][5:ㄓ][6:ˊ][7:˙][8:ㄚ][9:ㄞ][0:ㄢ][-:ㄦ][=][del]",
                 "[tab][Q:ㄆ][W:ㄊ][E:ㄍ][R:ㄐ][T:ㄔ][Y:ㄗ][U:ㄧ][I:ㄛ][O:ㄟ][P:ㄣ][[][]][\\]",
@@ -372,6 +396,7 @@
             "description": "注音"
         },
         "bpmf-gcin21-choco": {
+            "category": "bpmf",
             "charsets": [
                 "[7:ㄅㄧ][8:ㄉㄛ][9:ㄍㄟ][+:ㄑㄢ][,:ㄕ˙]",
                 "[4:ㄆㄨ][5:ㄊㄜ][6:ㄎㄠ][-:ㄒㄤ][;:ㄖˊ]",
@@ -383,6 +408,7 @@
             "keynameType": "label"
         },
         "bpmf-hsu": {
+            "category": "bpmf",
             "charsets": [
                 "[Q][W:ㄠ][E:ㄧㄝ][R:ㄖ][T:ㄊ][Y:ㄚ][U:ㄩ][I:ㄞ][O:ㄡ][P:ㄆ]",
                 "[A:ㄘㄟ][S:ㄙ˙][D:ㄉˊ][F:ㄈˇ][G:ㄍㄜ][H:ㄏㄛ][J:ㄐㄓˋ][K:ㄎㄤ][L:ㄌㄥㄦ]",
@@ -393,6 +419,7 @@
             "keynameType": "label"
         },
         "bpmf-hsu-dvorak": {
+            "category": "bpmf",
             "charsets": [
                 "['][,][.][P:ㄆ][Y:ㄚ][F:ㄈˇ][G:ㄍㄜ][C:ㄒㄕ][R:ㄖ][L:ㄌㄥㄦ]",
                 "[dummy:2][A:ㄘㄟ][O:ㄡ][E:ㄧㄝ][U:ㄩ][I:ㄞ][D:ㄉˊ][H:ㄏㄛ][T:ㄊ][N:ㄋㄣ][S:ㄙ˙][dummy:2]",
@@ -403,6 +430,7 @@
             "keynameType": "label"
         },
         "bpmf-hsu-dvorak-fullsize": {
+            "category": "bpmf",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][[][]][del]",
                 "[tab]['][,][.][P:ㄆ][Y:ㄚ][F:ㄈˇ][G:ㄍㄜ][C:ㄒㄕ][R:ㄖ][L:ㄌㄥㄦ][/][=][\\]",
@@ -414,6 +442,7 @@
             "keynameType": "label"
         },
         "bpmf-hsu-dvorak-pad": {
+            "category": "bpmf",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][[][]]",
                 "['][,][.][P:ㄆ][Y:ㄚ][F:ㄈˇ][G:ㄍㄜ][C:ㄒㄕ][R:ㄖ][L:ㄌㄥㄦ][/][=][\\][del]",
@@ -425,6 +454,7 @@
             "keynameType": "label"
         },
         "bpmf-hsu-fullsize": {
+            "category": "bpmf",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q][W:ㄠ][E:ㄧㄝ][R:ㄖ][T:ㄊ][Y:ㄚ][U:ㄩ][I:ㄞ][O:ㄡ][P:ㄆ][[][]][\\]",
@@ -436,6 +466,7 @@
             "keynameType": "label"
         },
         "bpmf-hsu-pad": {
+            "category": "bpmf",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[Q][W:ㄠ][E:ㄧㄝ][R:ㄖ][T:ㄊ][Y:ㄚ][U:ㄩ][I:ㄞ][O:ㄡ][P:ㄆ][del]",
@@ -447,6 +478,7 @@
             "keynameType": "label"
         },
         "bpmf-ibm": {
+            "category": "bpmf",
             "charsets": [
                 "[1:ㄅ][2:ㄆ][3:ㄇ][4:ㄈ][5:ㄉ][6:ㄊ][7:ㄋ][8:ㄌ][9:ㄍ][0:ㄎ][-:ㄏ]",
                 "[q:ㄐ][w:ㄑ][e:ㄒ][r:ㄓ][t:ㄔ][y:ㄕ][u:ㄖ][i:ㄗ][o:ㄘ][p:ㄙ]",
@@ -458,6 +490,7 @@
             "keynameType": "label"
         },
         "bpmf-ibm-fullsize": {
+            "category": "bpmf",
             "charsets": [
                 "[`][1:ㄅ][2:ㄆ][3:ㄇ][4:ㄈ][5:ㄉ][6:ㄊ][7:ㄋ][8:ㄌ][9:ㄍ][0:ㄎ][-:ㄏ][=][del]",
                 "[tab][q:ㄐ][w:ㄑ][e:ㄒ][r:ㄓ][t:ㄔ][y:ㄕ][u:ㄖ][i:ㄗ][o:ㄘ][p:ㄙ][[][]][\\]",
@@ -469,6 +502,7 @@
             "keynameType": "label"
         },
         "bpmf-ibm-pad": {
+            "category": "bpmf",
             "charsets": [
                 "[1:ㄅ][2:ㄆ][3:ㄇ][4:ㄈ][5:ㄉ][6:ㄊ][7:ㄋ][8:ㄌ][9:ㄍ][0:ㄎ][-:ㄏ][=]",
                 "[q:ㄐ][w:ㄑ][e:ㄒ][r:ㄓ][t:ㄔ][y:ㄕ][u:ㄖ][i:ㄗ][o:ㄘ][p:ㄙ][del]",
@@ -480,6 +514,7 @@
             "keynameType": "label"
         },
         "bpmf-keypad1-choco": {
+            "category": "bpmf",
             "charsets": [
                 "[esc][1:ㄅㄉㄚ][2:ㄍㄐㄞ][3:ㄓㄗㄢㄦ][del]",
                 "[(][4:ㄆㄊㄛ][5:ㄎㄑㄟ][6:ㄔㄘㄣㄧ][ˊ:ˊ]",
@@ -491,6 +526,7 @@
             "keynameType": "label"
         },
         "bpmf-keypad2-choco": {
+            "category": "bpmf",
             "charsets": [
                 "[esc][1:ㄅㄉㄚ][2:ㄍㄐㄞˊ][3:ㄓㄗㄢㄦˇ][del]",
                 "[(][4:ㄆㄊㄛˋ][5:ㄎㄑㄟ][6:ㄔㄘㄣㄧ][：]",
@@ -502,6 +538,7 @@
             "keynameType": "label"
         },
         "bpmf-keypad3-choco": {
+            "category": "bpmf",
             "charsets": [
                 "[esc][1:ㄅㄆㄇㄈ][2:ㄉㄊㄋㄌ][3:ㄍㄎㄏㄐ][del]",
                 "[(][4:ㄑㄒㄓ][5:ㄕㄖㄗㄘ][6:ㄙㄧㄨㄩㄔ][？]",
@@ -513,6 +550,7 @@
             "keynameType": "label"
         },
         "bpmf-keypad4-choco": {
+            "category": "bpmf",
             "charsets": [
                 "[esc][1:ㄅㄆㄇㄈ][2:ㄉㄊㄋㄌ][3:ㄍㄎㄏ][del]",
                 "[(][4:ㄐㄑㄒ][5:ㄓㄔㄕㄖ][6:ㄗㄘㄙ][ˊ:ˊ]",
@@ -524,6 +562,7 @@
             "keynameType": "label"
         },
         "bpmf-pad": {
+            "category": "bpmf",
             "charsets": [
                 "[1:ㄅ][2:ㄉ][3:ˇ][4:ˋ][5:ㄓ][6:ˊ][7:˙][8:ㄚ][9:ㄞ][0:ㄢ][-:ㄦ][=]",
                 "[Q:ㄆ][W:ㄊ][E:ㄍ][R:ㄐ][T:ㄔ][Y:ㄗ][U:ㄧ][I:ㄛ][O:ㄟ][P:ㄣ][del]",
@@ -534,6 +573,7 @@
             "description": "注音"
         },
         "cangjie": {
+            "category": "cangjie",
             "charsets": [
                 "[Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心]",
                 "[A:日][S:尸][D:木][F:火][G:土][H:竹][J:十][K:大][L:中]",
@@ -543,6 +583,7 @@
             "description": "倉頡"
         },
         "cangjie-fullsize": {
+            "category": "cangjie",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心][[][]][\\]",
@@ -553,6 +594,7 @@
             "description": "倉頡"
         },
         "cangjie-pad": {
+            "category": "cangjie",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心][del]",
@@ -563,6 +605,7 @@
             "description": "倉頡"
         },
         "cangjie6": {
+            "category": "cangjie",
             "charsets": [
                 "[Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心]",
                 "[A:日][S:尸][D:木][F:火][G:土][H:的][J:十][K:大][L:中]",
@@ -572,6 +615,7 @@
             "description": "倉六"
         },
         "cangjie6-fullsize": {
+            "category": "cangjie",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心][[][]][\\]",
@@ -582,6 +626,7 @@
             "description": "倉六"
         },
         "cangjie6-pad": {
+            "category": "cangjie",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心][del]",
@@ -592,6 +637,7 @@
             "description": "倉六"
         },
         "colemak": {
+            "category": "colemak",
             "charsets": [
                 "[Q][W][F][P][G][J][L][U][Y]",
                 "[dummy:2][A][R][S][T][D][H][N][E][I][O][dummy:2]",
@@ -601,6 +647,7 @@
             "description": "Colemak"
         },
         "colemak-fullsize": {
+            "category": "colemak",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][de]",
                 "[tab][Q][W][F][P][G][J][L][U][Y][;][[][]][\\]",
@@ -611,6 +658,7 @@
             "description": "Colemak"
         },
         "colemak-pad": {
+            "category": "colemak",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[Q][W][F][P][G][J][L][U][Y][del]",
@@ -621,6 +669,7 @@
             "description": "Colemak"
         },
         "dayi": {
+            "category": "dayi",
             "charsets": [
                 "[1:言][2:牛][3:目][4:四][5:王][6:門][7:田][8:米][9:足][0:金]",
                 "[Q:石][W:山][E:一][R:工][T:糸][Y:火][U:艸][I:木][O:口][P:耳]",
@@ -631,6 +680,7 @@
             "description": "大易"
         },
         "dayi-6row": {
+            "category": "dayi",
             "charsets": [
                 "[shift][~][@][#][$][%][^][&][*][del]",
                 "[1:言][2:牛][3:目][4:四][5:王][6:門][7:田][8:米][9:足][0:金]",
@@ -642,6 +692,7 @@
             "description": "大易(6R)"
         },
         "dayi-fullsize": {
+            "category": "dayi",
             "charsets": [
                 "[`][1:言][2:牛][3:目][4:四][5:王][6:門][7:田][8:米][9:足][0:金][-][=][del]",
                 "[tab][Q:石][W:山][E:一][R:工][T:糸][Y:火][U:艸][I:木][O:口][P:耳][[][]][\\]",
@@ -652,6 +703,7 @@
             "description": "大易"
         },
         "dayi-pad": {
+            "category": "dayi",
             "charsets": [
                 "[1:言][2:牛][3:目][4:四][5:王][6:門][7:田][8:米][9:足][0:金][-][=]",
                 "[Q:石][W:山][E:一][R:工][T:糸][Y:火][U:艸][I:木][O:口][P:耳][del]",
@@ -662,6 +714,7 @@
             "description": "大易"
         },
         "dvorak": {
+            "category": "dvorak",
             "charsets": [
                 "['][,][.][P][Y][F][G][C][R][L]",
                 "[dummy:2][A][O][E][U][I][D][H][T][N][S][dummy:2]",
@@ -671,6 +724,7 @@
             "description": "DVORAK"
         },
         "dvorak-fullsize": {
+            "category": "dvorak",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][[][]][del]",
                 "[tab]['][,][.][P][Y][F][G][C][R][L][/][=][\\]",
@@ -681,6 +735,7 @@
             "description": "DVORAK"
         },
         "dvorak-pad": {
+            "category": "dvorak",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][[][]]",
                 "['][,][.][P][Y][F][G][C][R][L][/][=][\\][del]",
@@ -691,6 +746,7 @@
             "description": "DVORAK"
         },
         "easy": {
+            "category": "cangjie",
             "charsets": [
                 "[`:~][1:⼁][2:車][3:糸][4:言][5:貝][6:雨][7:⼧][8:八][9:耳][0:鳥][-:儿][=:母]",
                 "[Q:手][W:田][E:水][R:口][T:廾][Y:⼂][U:山][I:戈][O:人][P:心][[:⼕][]:］]",
@@ -701,6 +757,7 @@
             "description": "輕鬆輸入法"
         },
         "easy-fullsize": {
+            "category": "cangjie",
             "charsets": [
                 "[`:~][1:⼁][2:車][3:糸][4:言][5:貝][6:雨][7:⼧][8:八][9:耳][0:鳥][-:儿][=:母][del]",
                 "[tab][Q:手][W:田][E:水][R:口][T:廾][Y:⼂][U:山][I:戈][O:人][P:心][[:⼕][]:］][\\:的]",
@@ -711,6 +768,7 @@
             "description": "輕鬆輸入法"
         },
         "easy-pad": {
+            "category": "cangjie",
             "charsets": [
                 "[`:~][1:⼁][2:車][3:糸][4:言][5:貝][6:雨][7:⼧][8:八][9:耳][0:鳥][-:儿][=:母]",
                 "[Q:手][W:田][E:水][R:口][T:廾][Y:⼂][U:山][I:戈][O:人][P:心][[:⼕][]:］][\\:的][del]",
@@ -721,6 +779,7 @@
             "description": "輕鬆輸入法"
         },
         "ghcm": {
+            "category": "ghcm",
             "charsets": [
                 "[\\][2][3][4][,]['][8][9][0]",
                 "[Q][W][E][R][T][Y][U][I][O][P]",
@@ -731,6 +790,7 @@
             "description": "矧码定制键盘"
         },
         "ghcm-fullsize": {
+            "category": "ghcm",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q][W][E][R][T][Y][U][I][O][P][[][]][\\]",
@@ -741,6 +801,7 @@
             "description": "矧码定制键盘"
         },
         "ghcm-pad": {
+            "category": "ghcm",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][\\]",
                 "[Q][W][E][R][T][Y][U][I][O][P][del]",
@@ -751,6 +812,7 @@
             "description": "矧码定制键盘"
         },
         "keypad-choco": {
+            "category": "keypad",
             "charsets": [
                 "[1][2][3]",
                 "[4][5][6]",
@@ -762,6 +824,7 @@
             "keynameType": "label"
         },
         "keypad-pinyin-choco": {
+            "category": "keypad",
             "charsets": [
                 "[,][1][2:ABC][3:DEF][del]",
                 "[.][4:GHI][5:JKL][6:MNO][esc]",
@@ -772,6 +835,7 @@
             "keynameType": "label"
         },
         "keypad-qz-choco": {
+            "category": "keypad",
             "charsets": [
                 "[1:QZ][2:ABC][3:DEF]",
                 "[4:GHI][5:JKL][6:MNO]",
@@ -783,6 +847,7 @@
             "keynameType": "label"
         },
         "keypad-qz-pad": {
+            "category": "keypad",
             "charsets": [
                 "[，][1:QZ][2:ABC][3:DEF][『]",
                 "[。][4:GHI][5:JKL][6:MNO][']",
@@ -794,6 +859,7 @@
             "keynameType": "label"
         },
         "lxsy": {
+            "category": "lxsy",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][del]",
                 "[q][w][e][r][t][y][u][i][o][p][[]",
@@ -804,6 +870,7 @@
             "description": "灵形速影"
         },
         "lxsy-fullsize": {
+            "category": "lxsy",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q][W][E][R][T][Y][U][I][O][P][[][]][\\]",
@@ -814,6 +881,7 @@
             "description": "灵形速影"
         },
         "lxsy-pad": {
+            "category": "lxsy",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[q][w][e][r][t][y][u][i][o][p][[][del]",
@@ -824,6 +892,7 @@
             "description": "灵形速影"
         },
         "newcj": {
+            "category": "cangjie",
             "charsets": [
                 "[Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心]",
                 "[A:日][S:尸][D:木][F:火][G:土][H:竹][J:十][K:大][L:中][;:；]",
@@ -833,6 +902,7 @@
             "description": "大新倉頡"
         },
         "newcj-5r": {
+            "category": "cangjie",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0]",
                 "[Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心]",
@@ -843,6 +913,7 @@
             "description": "大新倉頡(5R)"
         },
         "newcj-fullsize": {
+            "category": "cangjie",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心][[][]][\\]",
@@ -853,6 +924,7 @@
             "description": "大新倉頡"
         },
         "newcj-pad": {
+            "category": "cangjie",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[Q:手][W:田][E:水][R:口][T:廿][Y:卜][U:山][I:戈][O:人][P:心][del]",
@@ -863,6 +935,7 @@
             "description": "大新倉頡"
         },
         "qcode": {
+            "category": "qcode",
             "charsets": [
                 "[`:文][1:一][2:二][3:三][4:四][5:五][6:六][7:七][8:八][9:九][0:十][-:兩][=:難][\\:身]",
                 "[Q:日][W:火][E:馬][R:實][T:木][Y:羊][U:田][I:中][O:口][P:戶][[:的][]:路]",
@@ -873,6 +946,7 @@
             "description": "快碼"
         },
         "qcode-2": {
+            "category": "qcode",
             "charsets": [
                 "[`:文][1:一][2:二][3:三][4:四][5:五][6:六][7:七][8:八][9:九][0:十][-:兩][=:難]",
                 "[Q:日][W:火][E:馬][R:實][T:木][Y:羊][U:田][I:中][O:口][P:戶][[:的][]:路][\\:身]",
@@ -883,6 +957,7 @@
             "description": "快碼(2)"
         },
         "qcode-2-fullsize": {
+            "category": "qcode",
             "charsets": [
                 "[`:文][1:一][2:二][3:三][4:四][5:五][6:六][7:七][8:八][9:九][0:十][-:兩][=:難][del]",
                 "[tab][Q:日][W:火][E:馬][R:實][T:木][Y:羊][U:田][I:中][O:口][P:戶][[:的][]:路][\\:身]",
@@ -893,6 +968,7 @@
             "description": "快碼(2)"
         },
         "qcode-2-pad": {
+            "category": "qcode",
             "charsets": [
                 "[`:文][1:一][2:二][3:三][4:四][5:五][6:六][7:七][8:八][9:九][0:十][-:兩][=:難]",
                 "[Q:日][W:火][E:馬][R:實][T:木][Y:羊][U:田][I:中][O:口][P:戶][[:的][]:路][\\:身][del]",
@@ -903,6 +979,7 @@
             "description": "快碼(2)"
         },
         "qcode-fullsize": {
+            "category": "qcode",
             "charsets": [
                 "[`:文][1:一][2:二][3:三][4:四][5:五][6:六][7:七][8:八][9:九][0:十][-:兩][=:難][del]",
                 "[tab][Q:日][W:火][E:馬][R:實][T:木][Y:羊][U:田][I:中][O:口][P:戶][[:的][]:路][\\:身]",
@@ -913,6 +990,7 @@
             "description": "快碼"
         },
         "qcode-pad": {
+            "category": "qcode",
             "charsets": [
                 "[`:文][1:一][2:二][3:三][4:四][5:五][6:六][7:七][8:八][9:九][0:十][-:兩][=:難]",
                 "[Q:日][W:火][E:馬][R:實][T:木][Y:羊][U:田][I:中][O:口][P:戶][[:的][]:路][\\:身][del]",
@@ -923,6 +1001,7 @@
             "description": "快碼"
         },
         "qwerty": {
+            "category": "qwerty",
             "charsets": [
                 "[Q][W][E][R][T][Y][U][I][O][P]",
                 "[dummy:2][A][S][D][F][G][H][J][K][L][dummy:2]",
@@ -932,6 +1011,7 @@
             "description": "QWERTY"
         },
         "qwerty-fullsize": {
+            "category": "qwerty",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q][W][E][R][T][Y][U][I][O][P][[][]][\\]",
@@ -942,6 +1022,7 @@
             "description": "QWERTY 全尺寸鍵盤"
         },
         "qwerty-k14": {
+            "category": "qwerty",
             "charsets": [
                 "[1:QW][2:ER][3:TY][4:UI][5:OP]",
                 "[6:AS][7:DF][8:GH][9:JK][0:L]",
@@ -952,6 +1033,7 @@
             "keynameType": "label"
         },
         "qwerty-number": {
+            "category": "qwerty",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0]",
                 "[Q][W][E][R][T][Y][U][I][O][P]",
@@ -962,6 +1044,7 @@
             "description": "QWERTY 數字鍵盤"
         },
         "qwerty-number-pad": {
+            "category": "qwerty",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[Q][W][E][R][T][Y][U][I][O][P][del]",
@@ -972,6 +1055,7 @@
             "description": "QWERTY 數字鍵盤"
         },
         "qwerty-pad": {
+            "category": "qwerty",
             "charsets": [
                 "[Q][W][E][R][T][Y][U][I][O][P][del]",
                 "[dummy:2][A][S][D][F][G][H][J][K][L][return]",
@@ -981,6 +1065,7 @@
             "description": "QWERTY"
         },
         "qwertz": {
+            "category": "qwertz",
             "charsets": [
                 "[Q][W][E][R][T][Z][U][I][O][P]",
                 "[dummy:2][A][S][D][F][G][H][J][K][L][dummy:2]",
@@ -990,6 +1075,7 @@
             "description": "QWERTZ"
         },
         "qwertz-fullsize": {
+            "category": "qwertz",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][-][=][del]",
                 "[tab][Q][W][E][R][T][Z][U][I][O][P][[][]][\\]",
@@ -1000,6 +1086,7 @@
             "description": "QWERTZ"
         },
         "qwertz-pad": {
+            "category": "qwertz",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][-][=]",
                 "[Q][W][E][R][T][Z][U][I][O][P][del]",
@@ -1010,6 +1097,7 @@
             "description": "QWERTZ"
         },
         "stroke-bsm-choco": {
+            "category": "stroke",
             "charsets": [
                 "[esc][1:橫][2:豎][3:撇][del]",
                 "[(][4:捺][5:順彎][6:逆彎][*:＊]",
@@ -1020,6 +1108,7 @@
             "description": "筆順輸入法"
         },
         "stroke-g6code-choco": {
+            "category": "stroke",
             "charsets": [
                 "[esc][1:一][2:丨][3:丿][del]",
                 "[(][4:丶][5:フ][6:レ][*:＊]",
@@ -1029,6 +1118,7 @@
             "description": "六碼筆畫"
         },
         "stroke-stroke5-choco": {
+            "category": "stroke",
             "charsets": [
                 "[esc][m:－][/:｜][,:丿][del]",
                 "[(][.:丶][n:ㄣ][*:＊][「]",
@@ -1038,6 +1128,7 @@
             "description": "筆順五碼"
         },
         "stroke-stroke5-keypad-choco": {
+            "category": "stroke",
             "charsets": [
                 "[esc][2:－][5:｜][3:丿][del]",
                 "[(][4:丶][1:ㄣ][*:＊][「]",
@@ -1047,6 +1138,7 @@
             "description": "筆順五碼(數字鍵)"
         },
         "symbol": {
+            "category": "symbol",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0]",
                 "[`][!][@][#][$][%][^][&][*][(]",
@@ -1057,6 +1149,7 @@
             "description": "符號鍵盤(5)"
         },
         "symbol-fullsize": {
+            "category": "symbol",
             "charsets": [
                 "[`][1][2][3][4][5][6][7][8][9][0][<][>][del]",
                 "[tab][[][]][{][}][#][%][^][*][+][=][\\][|][~]",
@@ -1067,6 +1160,7 @@
             "description": "符號鍵盤(5)"
         },
         "symbol-keypad1-choco": {
+            "category": "symbol",
             "charsets": [
                 "[@][#][$][%][del]",
                 "[（][「][『][《][【]",
@@ -1077,6 +1171,7 @@
             "description": "符號鍵盤 (Keypad1)"
         },
         "symbol-keypad2-choco": {
+            "category": "symbol",
             "charsets": [
                 "[@][#][$][%][del]",
                 "[（][「][『][《][【]",
@@ -1086,6 +1181,7 @@
             "description": "符號鍵盤 (Keypad2)"
         },
         "symbol-pad": {
+            "category": "symbol",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0]",
                 "[`][!][@][#][$][%][^][&][*][(]",
@@ -1096,6 +1192,7 @@
             "description": "符號鍵盤(5)"
         },
         "symbol2": {
+            "category": "symbol",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0]",
                 "[-][/][:][;][(][)][$][&][@][\"]",
@@ -1105,6 +1202,7 @@
             "description": "符號鍵盤(4)"
         },
         "symbol2-pad": {
+            "category": "symbol",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][del]",
                 "[@][#][$][&][*][(][)]['][\"][return]",
@@ -1114,6 +1212,7 @@
             "description": "符號鍵盤(4)"
         },
         "symbol3": {
+            "category": "symbol",
             "charsets": [
                 "[[][]][{][}][#][%][^][*][+][=]",
                 "[_][\\][|][~][<][>][€][£][¥][•]",
@@ -1123,6 +1222,7 @@
             "description": "符號鍵盤 2(4)"
         },
         "symbol3-pad": {
+            "category": "symbol",
             "charsets": [
                 "[1][2][3][4][5][6][7][8][9][0][del]",
                 "[€][£][¥][_][^][[][]][{][}][return]",
@@ -1132,6 +1232,7 @@
             "description": "符號鍵盤 2(4)"
         },
         "tw-wsl": {
+            "category": "tw",
             "charsets": [
                 "[!:ㆠ][@:.ㄉ][$:ㄅㄉㄍㄏ][^:ㄅ̇ㄉ̇ㄍ̇ㄏ̇][&:˙][*:ㆩ][(:ㆮ][<:ㆥ][+:ㆧ][|:ㆭ][/:ㄥ]",
                 "[1:ㄅ][2:ㄉ][3:ㄴ​][4:ˋ][6:ˊ][7:ㅏ​][8:ㄚ][9:ㄞ][0:ㄢ][-:ㄦ][=:ㆦ]",
@@ -1143,6 +1244,7 @@
             "description": "吳守禮臺語注音"
         },
         "tw-wsl-fullsize": {
+            "category": "tw",
             "charsets": [
                 "[!:ㆠ][@:.ㄉ][$:ㄅㄉㄍㄏ][^:ㄅ̇ㄉ̇ㄍ̇ㄏ̇][%][&:˙][*:ㆩ][(:ㆮ][<:ㆥ][+:ㆧ][|:ㆭ][/:ㄥ][del]",
                 "[1:ㄅ][2:ㄉ][3:ㄴ][4:ˋ][5][6:ˊ][7:ㅏ][8:ㄚ][9:ㄞ][0:ㄢ][-:ㄦ][=:ㆦ]",
@@ -1154,6 +1256,7 @@
             "description": "吳守禮臺語注音"
         },
         "tw-wsl-pad": {
+            "category": "tw",
             "charsets": [
                 "[!:ㆠ][@:.ㄉ][$:ㄅㄉㄍㄏ][^:ㄅ̇ㄉ̇ㄍ̇ㄏ̇][%][&:˙][*:ㆩ][(:ㆮ][<:ㆥ][+:ㆧ][|:ㆭ][/:ㄥ][del]",
                 "[1:ㄅ][2:ㄉ][3:ㄴ][4:ˋ][5][6:ˊ][7:ㅏ][8:ㄚ][9:ㄞ][0:ㄢ][-:ㄦ][=:ㆦ]",
@@ -1165,5 +1268,5 @@
             "description": "吳守禮臺語注音"
         }
     },
-    "version": "20230928181328"
+    "version": "20231215185217"
 }
