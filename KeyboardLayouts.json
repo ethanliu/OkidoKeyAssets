@@ -1117,25 +1117,15 @@
             ],
             "description": "六碼筆畫"
         },
-        "stroke-stroke5-choco": {
+        "stroke-stroke5-keypad-choco": {
             "category": "stroke",
             "charsets": [
-                "[esc][m:－][/:｜][,:丿][del]",
-                "[(][.:丶][n:ㄣ][*:＊][「]",
+                "[esc][1:一][2:丨][3:丿][del]",
+                "[(][4:丶][5:フ][*:＊][「]",
                 "[：][，][。][？][！]",
                 "[next][globe][space][return]"
             ],
             "description": "筆順五碼"
-        },
-        "stroke-stroke5-keypad-choco": {
-            "category": "stroke",
-            "charsets": [
-                "[esc][2:－][5:｜][3:丿][del]",
-                "[(][4:丶][1:ㄣ][*:＊][「]",
-                "[：][，][。][？][！]",
-                "[next][globe][space][return]"
-            ],
-            "description": "筆順五碼(數字鍵)"
         },
         "symbol": {
             "category": "symbol",
@@ -1268,5 +1258,5 @@
             "description": "吳守禮臺語注音"
         }
     },
-    "version": "20231215185217"
+    "version": "20240525184324"
 }
