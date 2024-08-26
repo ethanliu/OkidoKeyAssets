@@ -28,7 +28,7 @@
             "category": "array",
             "cname": "行列廿六",
             "ename": "array26",
-            "license": "--------------------------------------------------------------------------------------------\n　名稱：行列輸入法廿六鍵版之香草模組對照表（array26.cin）\n　版本：0.4\n　日期：2007 年 06 月 26 日\n　本 array26.cin 原始檔案是由林沛熙（lin_pepsi@yahoo.com）\n　根據開放香草輸入法（OpenVanilla）中，\n　由霍東靈 AnthonyFok<foka@debian.org>君所整理之對照表修改而成。\n　據悉，霍君利用行列科技在所提供之行列 30 對照表（1996 年版），\n　並承葉光哲 (gontera) 君與 zonble 鼎力協助，將字碼擴增為 unicode 字集，\n　並支援一級簡碼外（不支援二級簡碼）與行列特別碼。\n　感謝行列輸入法（行列科技）的發明人廖明德先生\n　慷慨提供包含繁、簡中文字集共二萬九千餘字的 unicode 字集對照檔，\n　並開放免費授權予社群進行修改與增補。\n　本檔案採 General Public License 授權，\n　歡迎各界無償（或僅收取適當成本）流通及使用；\n　本檔案歡迎使用者自行修改，\n　惟修改之後之檔案，亦須遵照 GPL 協定開放授權。\n　本檔案之 GPL 授權，與行列輸入法及行列科技無關，\n　行列輸入法及其相關法律權利，蓋屬行列科技所有。\n　有關行列輸入法，請參觀 http://www.array.com.tw/內的介紹。\n--------------------------------------------------------------------------------------------\n　下面這行是定義重碼的選字鍵\n　下面這行是定義組字的結束鍵\n　下面這行開始是定義字根鍵",
+            "license": "---\n名稱：行列輸入法廿六鍵版之香草模組對照表（array26.cin）\n版本：0.4\n日期：2007 年 06 月 26 日\n本 array26.cin 原始檔案是由林沛熙（lin_pepsi@yahoo.com）\n根據開放香草輸入法（OpenVanilla）中，\n由霍東靈 AnthonyFok<foka@debian.org>君所整理之對照表修改而成。\n據悉，霍君利用行列科技在所提供之行列 30 對照表（1996 年版），\n並承葉光哲 (gontera) 君與 zonble 鼎力協助，將字碼擴增為 unicode 字集，\n並支援一級簡碼外（不支援二級簡碼）與行列特別碼。\n感謝行列輸入法（行列科技）的發明人廖明德先生\n慷慨提供包含繁、簡中文字集共二萬九千餘字的 unicode 字集對照檔，\n並開放免費授權予社群進行修改與增補。\n本檔案採 General Public License 授權，\n歡迎各界無償（或僅收取適當成本）流通及使用；\n本檔案歡迎使用者自行修改，\n惟修改之後之檔案，亦須遵照 GPL 協定開放授權。\n本檔案之 GPL 授權，與行列輸入法及行列科技無關，\n行列輸入法及其相關法律權利，蓋屬行列科技所有。\n有關行列輸入法，請參觀 http://www.array.com.tw 內的介紹。\n---",
             "name": "",
             "path": "table/array26.cin.db"
         },
@@ -36,7 +36,7 @@
             "category": "array",
             "cname": "行列30-大字集",
             "ename": "array30-big",
-            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n大字集版 (big)：完整收錄 Unicode 內碼為 4 位數及 5 位數 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G 字集範圍。\n\nOkidoKey 版本字根包含一、二級簡碼及特別碼",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n大字集版 (big)：完整收錄 Unicode 內碼為 4 位數及 5 位數 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G 字集範圍。\n\n---\n\nOkidoKey 版本字根表包含一、二級簡碼及特別碼",
             "name": "",
             "path": "table/array30-OkidoKey-big.cin.db"
         },
@@ -44,7 +44,7 @@
             "category": "array",
             "cname": "行列30",
             "ename": "array30",
-            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n標準版 (regular)：僅收錄 Unicode 內碼為 4 位數 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C。CJK Ext-A 字集範圍亦收錄於此版本。\n\nOkidoKey 版本字根包含一、二級簡碼及特別碼",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n標準版 (regular)：僅收錄 Unicode 內碼為 4 位數 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C。CJK Ext-A 字集範圍亦收錄於此版本。\n\n---\n\nOkidoKey 版本字根包含一、二級簡碼及特別碼",
             "name": "",
             "path": "table/array30-OkidoKey.cin.db"
         },
@@ -92,7 +92,7 @@
             "category": "cangjie",
             "cname": "倉頡",
             "ename": "CangJie",
-            "license": "CangJie input method table tweaked by b6s for OVIMGeneric(SQLite) in UTF-8 encoding.\n\nThis table also extended to include HKSCS encodings. For details, see\n\thttp://www.info.gov.hk/digital21/chi/hkscs/index.html",
+            "license": "CangJie input method table tweaked by b6s for OVIMGeneric(SQLite) in UTF-8 encoding.\n\nThis table also extended to include HKSCS encodings. For details, see\nhttp://www.info.gov.hk/digital21/chi/hkscs/index.html",
             "name": "",
             "path": "table/cj.cin.db"
         },
@@ -100,7 +100,7 @@
             "category": "cangjie",
             "cname": "倉頡五代",
             "ename": "Cangjie-5",
-            "license": "ChangJei input method table for UTF-8 encoding.\n\n\tConverted from http://www.cbflabs.com/tec.htm\n\tby Janus Ng on Dec 30, 2004",
+            "license": "ChangJei input method table for UTF-8 encoding.\n\nConverted from http://www.cbflabs.com/tec.htm\nby Janus Ng on Dec 30, 2004",
             "name": "",
             "path": "table/cj5.cin.db"
         },
@@ -124,7 +124,7 @@
             "category": "dayi",
             "cname": "大易二碼",
             "ename": "DaYi2",
-            "license": "本表格由太易資訊公司 (http://www.dayi.com) 授權，開放給使用者下載使用。\n\n使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格\n的格式以適合其他平台或輸入法軟體使用。\n2013/11/27 修改 https://github.com/dabinn/Miss-Apple-dayi2-IME\n* 預覽/預選字 (全部符合才顯示) (打兩碼根本不會看，且關掉後反應速度快很多)\n%flag_disp_full_match\n* 預選列中顯示部份符合的字 (部份符合即顯示 )\n%flag_disp_partial_match\n* 垂直選擇\n%flag_vertical_selection\n* 按滿自動送字\n%flag_press_full_auto_send\n* 由詞庫自動選擇字\n%flag_auto_select_by_phrase\n* 空白鍵選項 1~4 # 數字代表的意義如右，1: 嘸蝦米、大易； 2: 倉頡  ；4: 行列輸入法\n%space_style 1\n* 唯一選擇時自動送出\n%flag_unique_auto_send\n* 其它\n%keep_key_case ： # 讓 gcin 區分大小寫，啟用這個選項後同一英文字的大寫與小寫可代表不同的字根（參考資料：gcin 使用手冊）\n%phase_auto_skip_endkey ： 行列用的，好像是解決 endkey 和字根打架問題\n%flag_keypad_input_key：給需要使用 keypad 當輸入鍵的輸入法",
+            "license": "本表格由太易資訊公司 (http://www.dayi.com) 授權，開放給使用者下載使用。\n\n使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格\n的格式以適合其他平台或輸入法軟體使用。\n2013/11/27 修改 https://github.com/dabinn/Miss-Apple-dayi2-IME",
             "name": "",
             "path": "table/dayi2.cin.db"
         },
@@ -140,7 +140,7 @@
             "category": "dayi",
             "cname": "大易四碼",
             "ename": "DaYi4:en;大易四码:zh_CN;大易四碼:zh;",
-            "license": "本表格由太易資訊公司 (http://www.dayi.com) 授權，開放給使用者下載使用。\n\n使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格\n的格式以適合其他平台或輸入法軟體使用。\n\n%selkey '[]-\\6789",
+            "license": "本表格由太易資訊公司 (http://www.dayi.com) 授權，開放給使用者下載使用。\n\n使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格\n的格式以適合其他平台或輸入法軟體使用。",
             "name": "",
             "path": "table/dayi4.cin.db"
         },
@@ -156,7 +156,7 @@
             "category": "misc",
             "cname": "矧码",
             "ename": "ghcm",
-            "license": "build: 2024/05/05 18:43:05\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n==========\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
+            "license": "build: 2024/08/21 17:22:10\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
             "name": "",
             "path": "table/ghcm.cin.db"
         },
@@ -220,7 +220,7 @@
             "category": "cangjie",
             "cname": "快倉六",
             "ename": "scj6",
-            "license": "This file must be encoded into UTF-8.\nThis file comes from http://www.scj2000.net\n===============================================================\n快倉 2000_ 快速倉頡輸入法第六代 (v6.2.2)\n===============================================================\n網址: http://www.scj2000.com\n網址: http://www.scj2000.net\nCopyright (C) 2002-2009 麥志洪 <makchehu@netvigator.com>\nCopyright (C) 2002-2009 Quintus Leung <quintus@scj2000.net>\n授權方式: GPL version 3\nThis program is free software; you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation; either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along\nwith this program; if not, write to the Free Software Foundation, Inc.,\n51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.\n\nSupported Characters: 15,270 Unique Traditional and Simplified Chinese Characters\nSupported Encodings : Unicode4.0, BIG5, BIG5-HKSCS, GB18030, GBK, GB\n\n===============================================================\n倉頡第五代國際版\n===============================================================\n輸入法發明人：朱邦復先生 http://www.cbflabs.com\n碼表統一維護：倉頡之友. 馬來西亞  http://www.chinesecj.com\n倉頡輸入版權：本輸入法無版權，歡迎大家復制使用及推廣倉頡。\n\n===============================================================\n倉頡第三代\n===============================================================\n輸入法發明人：朱邦復先生 http://www.cbflabs.com\n碼表維護：倉頡之友. 馬來西亞  http://www.chinesecj.com",
+            "license": "This file must be encoded into UTF-8.\nThis file comes from http://www.scj2000.net\n---\n快倉 2000_ 快速倉頡輸入法第六代 (v6.2.2)\n---\n網址: http://www.scj2000.com\n網址: http://www.scj2000.net\nCopyright (C) 2002-2009 麥志洪 <makchehu@netvigator.com>\nCopyright (C) 2002-2009 Quintus Leung <quintus@scj2000.net>\n授權方式: GPL version 3\nThis program is free software; you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation; either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along\nwith this program; if not, write to the Free Software Foundation, Inc.,\n51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.\n\nSupported Characters: 15,270 Unique Traditional and Simplified Chinese Characters\nSupported Encodings : Unicode4.0, BIG5, BIG5-HKSCS, GB18030, GBK, GB\n\n---\n倉頡第五代國際版\n---\n輸入法發明人：朱邦復先生 http://www.cbflabs.com\n碼表統一維護：倉頡之友. 馬來西亞  http://www.chinesecj.com\n倉頡輸入版權：本輸入法無版權，歡迎大家復制使用及推廣倉頡。\n\n---\n倉頡第三代\n---\n輸入法發明人：朱邦復先生 http://www.cbflabs.com\n碼表維護：倉頡之友. 馬來西亞  http://www.chinesecj.com",
             "name": "",
             "path": "table/scj6.cin.db"
         },
@@ -228,7 +228,7 @@
             "category": "cangjie",
             "cname": "快倉七代",
             "ename": "Speedy-Changjei-7",
-            "license": "SpeedChangJei input method table for UTF-8 encoding.\n\n\tConverted from http://www.scj2000.com/ by Janus Ng on Dec 31, 2004\n\tdigit terminated and some single key characters remapped\n\n\tThis table also extended to include HKSCS encodings. For details, see\n\thttp://www.info.gov.hk/digital21/chi/hkscs/index.html",
+            "license": "SpeedChangJei input method table for UTF-8 encoding.\n\nConverted from http://www.scj2000.com/ by Janus Ng on Dec 31, 2004\ndigit terminated and some single key characters remapped\n\nThis table also extended to include HKSCS encodings. For details, see\nhttp://www.info.gov.hk/digital21/chi/hkscs/index.html",
             "name": "",
             "path": "table/scj7.cin.db"
         },
@@ -252,7 +252,7 @@
             "category": "misc",
             "cname": "筆順碼",
             "ename": "BSM:en;笔顺码:zh_CN;筆順碼:zh;",
-            "license": "筆順碼輸入法\n碼表取自 https://github.com/siuying/BSMInputMethod\n發明人: 王頌平教授\n代理 (已停止)： http://www.freefire.com.hk/\n格式修改 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2017\n授權方式: Public Domain\nsname 筆順",
+            "license": "筆順碼輸入法\n碼表取自 https://github.com/siuying/BSMInputMethod\n發明人: 王頌平教授\n代理 (已停止)： http://www.freefire.com.hk/\n格式修改 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2017\n授權方式: Public Domain",
             "name": "",
             "path": "table/stroke-bsm.cin.db"
         },
@@ -260,7 +260,7 @@
             "category": "misc",
             "cname": "六碼筆畫",
             "ename": "G6Code:en;六码笔画:zh_CN;六碼筆畫:zh;",
-            "license": "六碼筆畫輸入法\nhttp://www.miniapps.hk/g6code/\n發明人: 香港城市大學電子工程學系布禮文博士開發團隊\n格式修改 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2023\n授權方式: Public Domain\nsname 六碼",
+            "license": "六碼筆畫輸入法\nhttp://www.miniapps.hk/g6code/\n發明人: 香港城市大學電子工程學系布禮文博士開發團隊\n格式修改 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2023\n授權方式: Public Domain",
             "name": "",
             "path": "table/stroke-g6code.cin.db"
         },
@@ -292,7 +292,7 @@
             "category": "misc",
             "cname": "中易郑码",
             "ename": "ZhengMa:en;中易郑码:zh_CN;中易鄭碼:zh;",
-            "license": "鄭碼 is invented by 郑易里 & 郑珑, Thanks them for this excellent Input Method!\nSpecial thanks to 張韡武, who provide his own table to me to redistribute.\nThe character encodings for GB18030 is come from ZhengMa-6.6,\nthe COPYRIGHTS is belong to ZhongYi Inc.;\nCJK-A goucima is add by myself, granted as GPL.\nCJK-B, CJK-C character encodings are come from 一呜惊人 <ranglming@126.com>\nThis table use the 5-code-ZhengMa schema to encode phrases, which\nmake phrases above 2 characters more discreted. This method is\nsuggested by \"郑码大师\" in www.zmfans.cn/bbs\nThe other parts of this table under LGPL\n\nredistributed by Yu Yuwei <acevery@gmail.com> at\nhttps://github.com/acevery/ibus-table-zhengma\n\nconverted to Rime dictionary by GONG Chen <chen.sst@gmail.com>\n\n網址: http://zmdisk.ys168.com/\n格式修改 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2020\n授權方式: GPLv3\nsname 鄭碼",
+            "license": "鄭碼 is invented by 郑易里 & 郑珑, Thanks them for this excellent Input Method!\nSpecial thanks to 張韡武, who provide his own table to me to redistribute.\nThe character encodings for GB18030 is come from ZhengMa-6.6,\nthe COPYRIGHTS is belong to ZhongYi Inc.;\nCJK-A goucima is add by myself, granted as GPL.\nCJK-B, CJK-C character encodings are come from 一呜惊人 <ranglming@126.com>\nThis table use the 5-code-ZhengMa schema to encode phrases, which\nmake phrases above 2 characters more discreted. This method is\nsuggested by \"郑码大师\" in www.zmfans.cn/bbs\nThe other parts of this table under LGPL\n\nredistributed by Yu Yuwei <acevery@gmail.com> at\nhttps://github.com/acevery/ibus-table-zhengma\n\nconverted to Rime dictionary by GONG Chen <chen.sst@gmail.com>\n\n網址: http://zmdisk.ys168.com/\n格式修改 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2020\n授權方式: GPLv3",
             "name": "",
             "path": "table/zhengma.cin.db"
         }
@@ -447,5 +447,5 @@
             "github": 4
         }
     },
-    "version": "20240525191058"
+    "version": "20240825181812"
 }
