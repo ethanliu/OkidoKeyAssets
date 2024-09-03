@@ -1,37 +1,37 @@
 {
     "resources": [
         {
-            "description": "# 行列輸入法詞庫\n\nhttps://github.com/gontera/array30\n\n### 關於行列輸入法詞庫\n\n行列輸入法官方收錄 6 萬詞的詞庫檔\n\n### 關於本詞庫\n\n2021/07/25 新增行列輸入法官方收錄 6 萬詞的詞庫檔（原先收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法作者廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，於開發行列輸入法軟體時採用）。\n行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「行列教室」之說明。\n\n#### 詞庫範例\n\n```\n雛形\tlya.\n先斬後奏\toq.z\n精神\t,uyd\n訃文\tycy.\n清早\tcupf\n酬答\tadl;\n初會\tyjip\n領導有方\tiizh\n水火不容\tc,zn\n耳根\taevx\n```\n\n",
+            "description": "# 行列輸入法詞庫\n\nhttps://github.com/gontera/array30\n\n### 關於行列輸入法詞庫\n\n行列輸入法官方收錄 6 萬詞的詞庫檔\n\n### 關於本詞庫\n\n2021/07/25 新增行列輸入法官方收錄 6 萬詞的詞庫檔（原先收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法作者廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，於開發行列輸入法軟體時採用）。\n行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「行列教室」之說明。\n\n#### 詞庫範例\n\n```\n豐原\tfizc\n救世\tf.rs\n淤塞\tchnr\n謀略\tyvp;\n胸前\tudie\n符命\tlhij\n挖洞穴\toscn\n發源地\tbbcr\n疲乏\thbln\n畫堂\ttacr\n```\n\n",
             "name": "行列輸入法詞庫",
             "path": "lexicon/array30.csv.db"
         },
         {
-            "description": "# 结巴中文分词(简体)\n\n结巴中文分词 - MIT\nhttps://github.com/fxsjy/jieba\n\n### 關於结巴中文分词\n\n“结巴”中文分词：做最好的 Python 中文分词组件\n\n### 關於本詞庫\n\n本詞庫字詞及詞頻取自結巴中文分詞的詞典 dict.txt 版本。\n取其字詞及詞頻，並以字詞產生無調號漢語拼音，因此讀音未必完全正確。\n轉換後的 CSV 檔雖包含完整字詞，但預先轉換以供直接使用的字詞資料庫，僅含二個字以上的字詞。\n\n#### 詞庫範例\n\n```\n康淞万\tkangsongwan\n渔叟\tyusou\n磷酸\tlinsuan\n孔明闲\tkongmingxian\n珩磨\thengmo\n殃国祸家\tyangguohuojia\n比屋而封\tbiwuerfeng\n皖赣铁路\twangantielu\n扶墙摸壁\tfuqiangmobi\n决胜盘\tjueshengpan\n```\n\n",
+            "description": "# 结巴中文分词(简体)\n\n结巴中文分词 - MIT\nhttps://github.com/fxsjy/jieba\n\n### 關於结巴中文分词\n\n“结巴”中文分词：做最好的 Python 中文分词组件\n\n### 關於本詞庫\n\n本詞庫字詞及詞頻取自結巴中文分詞的詞典 dict.txt 版本。\n取其字詞及詞頻，並以字詞產生無調號漢語拼音，因此讀音未必完全正確。\n轉換後的 CSV 檔雖包含完整字詞，但預先轉換以供直接使用的字詞資料庫，僅含二個字以上的字詞。\n\n#### 詞庫範例\n\n```\n太晖山\ttaihuishan\n易性\tyixing\n西泠\txiling\n制约\tzhiyue\n杨卓然\tyangzhuoran\n中国新疆地区\tzhongguoxinjiangdiqu\n二枝\terzhi\n吴三呈\twusancheng\n八极拳\tbajiquan\n挂甲\tguajia\n```\n\n",
             "name": "结巴中文分词(简体)",
             "path": "lexicon/jieba.csv.db"
         },
         {
-            "description": "# Rime 粵語拼音方案\n\nRime 粵語拼音方案 - 共享創意-姓名標示 4.0 國際 (CC BY 4.0)\nhttps://github.com/rime/rime-cantonese\n\n### 關於 Rime 粵語拼音方案\n\n本方案凈支持「香港語言學學會粵語拼音方案」（簡稱「粵拼」）：\n\n- Jyutping 粵拼 | lshk\n- 粵拼：香港語言學學會粵語拼音方案\n- 香港語言學學會粵語拼音方案\n\n### 關於本詞庫\n\n本詞庫使用 Rime 粵語拼音方案 jyut6ping3.words.dict.yaml 版本 2022.06.09。\n取其詞彙內容，拼音轉為無調號不含空格格式，及詞頻規則轉換為比重數字。\n轉換後的 CSV 有可能包含單字，但預先轉換以供直接使用的字詞資料庫，僅含二個字以上的字詞。\n\n#### 詞庫範例\n\n```\n會意字\twuijizi\n幾點起身\tgeidimheisan\n驚動\tgingdung\n石櫈\tsekdang\n晚頭\tmaantau\n橫加指責\twaanggaazizaak\n政治界\tzingzigaai\n上半夜\tsoengbunje\n以備不時之需\tjibeibatsiziseoi\n唔忍得\tmjandak\n```\n\n",
+            "description": "# Rime 粵語拼音方案\n\nRime 粵語拼音方案 - 共享創意-姓名標示 4.0 國際 (CC BY 4.0)\nhttps://github.com/rime/rime-cantonese\n\n### 關於 Rime 粵語拼音方案\n\n本方案凈支持「香港語言學學會粵語拼音方案」（簡稱「粵拼」）：\n\n- Jyutping 粵拼 | lshk\n- 粵拼：香港語言學學會粵語拼音方案\n- 香港語言學學會粵語拼音方案\n\n### 關於本詞庫\n\n本詞庫使用 Rime 粵語拼音方案 jyut6ping3.words.dict.yaml 版本 2022.06.09。\n取其詞彙內容，拼音轉為無調號不含空格格式，及詞頻規則轉換為比重數字。\n轉換後的 CSV 有可能包含單字，但預先轉換以供直接使用的字詞資料庫，僅含二個字以上的字詞。\n\n#### 詞庫範例\n\n```\n劄貨\tzaapfo\n講唔講\tgongmgong\n早茶\tzoucaa\n杳無音訊\tmiumoujamseon\n淹沒\tjimmut\n鴨腳粟\taapgoeksuk\n舞步\tmoubou\n魚尾夾\tjyumeigep\n貝塔\tbuitaap\n中央空調\tzungjoenghungtiu\n```\n\n",
             "name": "Rime 粵語拼音方案",
             "path": "lexicon/jyutping.csv.db"
         },
         {
-            "description": "# 小麥注音輸入法詞庫\n\nOpenVanilla McBopomofo 小麥注音輸入法 - MIT License\nhttps://github.com/openvanilla/McBopomofo/tree/master/Source/Data\n\n### 關於小麥注音輸入法\n\n小麥注音的輸入法引擎是 Gramambular，這是一套在 2010 年開發釋出的 open source 中文斷字引擎。斷字跟選字的原理相近，我們利用這個特性，加上網路上公開可使用的語料與讀音資料，整理成小麥注音的資料庫。\n\n### 關於本詞庫\n\n本詞庫基於小麥注音輸入法的 phrase.occ 檔案，加註無調號之漢語拼音。\n轉換後的 CSV 檔有可能包含單字，但預先轉換以供直接使用的字詞資料庫，僅含二個字以上的字詞。\n\n#### 詞庫範例\n\n```\n行軍床\txingjunchuang\n閩北話\tminbeihua\n史豔文\tshiyanwen\n林氏\tlinshi\n脫腥\ttuoxing\n挖過來\twaguolai\n特約稿\tteyuegao\n學理\txueli\n成果輝煌\tchengguohuihuang\n傳真\tchuanzhen\n```\n\n",
+            "description": "# 小麥注音輸入法詞庫\n\nOpenVanilla McBopomofo 小麥注音輸入法 - MIT License\nhttps://github.com/openvanilla/McBopomofo/tree/master/Source/Data\n\n### 關於小麥注音輸入法\n\n小麥注音的輸入法引擎是 Gramambular，這是一套在 2010 年開發釋出的 open source 中文斷字引擎。斷字跟選字的原理相近，我們利用這個特性，加上網路上公開可使用的語料與讀音資料，整理成小麥注音的資料庫。\n\n### 關於本詞庫\n\n本詞庫基於小麥注音輸入法的 phrase.occ 檔案，加註無調號之漢語拼音。\n轉換後的 CSV 檔有可能包含單字，但預先轉換以供直接使用的字詞資料庫，僅含二個字以上的字詞。\n\n#### 詞庫範例\n\n```\n松柏長青茶\tsongbaichangqingcha\n草履蟲\tcaolvchong\n封建制度\tfengjianzhidu\n未歸人\tweiguiren\n物理學家\twulixuejia\n吉娃娃\tjiwawa\n霞冠\txiaguan\n聖堂騎士\tshengtangqishi\n咬了\tyaole\n大傷腦筋\tdashangnaojin\n```\n\n",
             "name": "小麥注音輸入法詞庫",
             "path": "lexicon/mcbopomofo.csv.db"
         },
         {
-            "description": "# 教育部《國語辭典簡編本》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《國語辭典簡編本》\n\n主要適用對象：國中、小學生及學習華語人士。\n\n* 為一部有聲音及圖片之多媒體辭典，收詞以字詞頻統計結果為依據，釋義行文則採淺白語體編寫。\n* 本辭典所收的字音，參照教育部公布之「國語一字多音審訂表」，並經審音委員會審訂決議。\n\n### 關於本詞庫\n\n本詞庫基於教育部《國語辭典簡編本》編號 2014_20240821 版本。\n\n- 取其「字詞名」及「注音一式」欄位。\n- 字詞僅取(含)二個字以上的字詞。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為不含空格的漢語拼音。若不含注音資料時，則以字詞轉換漢語拼音。\n\n#### 詞庫範例\n\n```\n文明\twenming\n大學服\tdaxuefu\n蒸汽\tzhengqi\n抵擋\tdidang\n斗膽\tdoudan\n銀絲卷\tyinsijuan\n硬碰硬\tyingpengying\n金字招牌\tjinzizhaopai\n社會化\tshehuihua\n路燈\tludeng\n```\n\n",
+            "description": "# 教育部《國語辭典簡編本》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《國語辭典簡編本》\n\n主要適用對象：國中、小學生及學習華語人士。\n\n* 為一部有聲音及圖片之多媒體辭典，收詞以字詞頻統計結果為依據，釋義行文則採淺白語體編寫。\n* 本辭典所收的字音，參照教育部公布之「國語一字多音審訂表」，並經審音委員會審訂決議。\n\n### 關於本詞庫\n\n本詞庫基於教育部《國語辭典簡編本》編號 2014_20240821 版本。\n\n- 取其「字詞名」及「注音一式」欄位。\n- 字詞僅取(含)二個字以上的字詞。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為不含空格的漢語拼音。若不含注音資料時，則以字詞轉換漢語拼音。\n\n#### 詞庫範例\n\n```\n濱海\tbinhai\n依時\tyishi\n衡量\thengliang\n旅居\tluju\n坐禪\tzuochan\n試圖\tshitu\n煮飯\tzhufan\n彪形大漢\tbiaoxingdahan\n細小\txixiao\n海上\thaishang\n```\n\n",
             "name": "教育部《國語辭典簡編本》",
             "path": "lexicon/moe-concised.csv.db"
         },
         {
-            "description": "# 教育部《成語典》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《成語典》\n\n主要適用對象：語文教學者與學生。\n\n每條成語除釋義、音讀，另有典故原文及其白話譯注、用法說明、例句等，內容豐富。\n\n### 關於本詞庫\n\n本詞庫基於教育部《成語典》編號 2020_20240627 版本。\n\n- 取其「成語」及「注音」欄位。\n- 字詞僅取(含)二個字以上的字詞。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為不含空格的漢語拼音。若不含注音資料時，則以字詞轉換漢語拼音。\n\n#### 詞庫範例\n\n```\n清原正本\tqingyuanzhengben\n身敗名裂\tshenbaiminglie\n深居簡出\tshenjujianchu\n去草絕根\tqucaojuegen\n人言可畏\trenyankewei\n趨炎奉勢\tquyanfengshi\n膠柱鼓瑟\tjiaozhuguse\n不知所云\tbuzhisuoyun\n漫不經心\tmanbujingxin\n娛目賞心\tyumushangxin\n```\n\n",
+            "description": "# 教育部《成語典》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《成語典》\n\n主要適用對象：語文教學者與學生。\n\n每條成語除釋義、音讀，另有典故原文及其白話譯注、用法說明、例句等，內容豐富。\n\n### 關於本詞庫\n\n本詞庫基於教育部《成語典》編號 2020_20240627 版本。\n\n- 取其「成語」及「注音」欄位。\n- 字詞僅取(含)二個字以上的字詞。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為不含空格的漢語拼音。若不含注音資料時，則以字詞轉換漢語拼音。\n\n#### 詞庫範例\n\n```\n不合時宜\tbuheshiyi\n拊心泣血\tfuxinqixie\n安貧守道\tanpinshoudao\n滄海一粟\tcanghaiyisu\n卷土重來\tjuantuchonglai\n以德報怨\tyidebaoyuan\n竭水搏魚\tjieshuiboyu\n逃之夭夭\ttaozhiyaoyao\n養虎貽患\tyanghuyihuan\n樂道安貧\tledaoanpin\n```\n\n",
             "name": "教育部《成語典》",
             "path": "lexicon/moe-idioms.csv.db"
         },
         {
-            "description": "# 教育部《重編國語辭典 修訂本》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《重編國語辭典 修訂本》\n\n主要適用對象：對歷史語言有興趣的研究者。\n\n本典為一部歷史語言辭典，記錄中古至現代各類詞語，並大量引用古典文獻書證，字音部分則兼收現代及傳統音讀。\n\n### 關於本詞庫\n\n本詞庫基於教育部《重編國語辭典 修訂本》編號 2015_20240821 版本。\n\n- 取其「字詞名」及「注音一式」欄位。\n- 字詞僅取(含)二個字以上的字詞。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為不含空格的漢語拼音。若不含注音資料時，則以字詞轉換漢語拼音。\n\n#### 詞庫範例\n\n```\n致命傷\tzhimingshang\n牛軛湖\tniuehu\n脣不遮齒\tchunbuzhechi\n閒適\txianshi\n孤哀子\tguaizi\n一順兒\tyishuner\n落拓\tluotuo\n功力\tgongli\n遲滯\tchizhi\n生態平衡\tshengtaipingheng\n```\n\n",
+            "description": "# 教育部《重編國語辭典 修訂本》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《重編國語辭典 修訂本》\n\n主要適用對象：對歷史語言有興趣的研究者。\n\n本典為一部歷史語言辭典，記錄中古至現代各類詞語，並大量引用古典文獻書證，字音部分則兼收現代及傳統音讀。\n\n### 關於本詞庫\n\n本詞庫基於教育部《重編國語辭典 修訂本》編號 2015_20240821 版本。\n\n- 取其「字詞名」及「注音一式」欄位。\n- 字詞僅取(含)二個字以上的字詞。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為不含空格的漢語拼音。若不含注音資料時，則以字詞轉換漢語拼音。\n\n#### 詞庫範例\n\n```\n二難\ternan\n燕燕\tyanyan\n排泥閥\tpainifa\n易林\tyilin\n侵掠\tqinlue\n急聲\tjisheng\n虛嘴掠舌\txuzuilueshe\n從中斡旋\tcongzhongwoxuan\n遶境\traojing\n幽靈車\tyoulingche\n```\n\n",
             "name": "教育部《重編國語辭典 修訂本》",
             "path": "lexicon/moe-revised.csv.db"
         }
@@ -66,5 +66,5 @@
             "github": 8
         }
     },
-    "version": "20240825181814"
+    "version": "20240903170857"
 }
