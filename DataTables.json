@@ -4,7 +4,7 @@
             "category": "array",
             "cname": "行列10",
             "ename": "array10a",
-            "license": "行列 10 輸入法 (array10a) for OpenVanilla，版本 v2023-1.0\n釋出日期：2023-02-20\n詳細說明請參見 https://github.com/gontera/array10\n\n支援包括中日韓統一表意文字延伸 A 區 (Ext-A) 共二萬七千餘漢字的「標準版」。如將鍵碼表匯入手機使用，建議以此版本匯入，將帶來最佳的使用者體驗，亦最節省使用手機有限的記憶空間。",
+            "license": "行列 10 輸入法 (array10a) for OpenVanilla，版本 v2023-1.0\n釋出日期：2023-02-20\n詳細說明請參見 https://github.com/gontera/array10",
             "name": "",
             "path": "table/array10a.cin.db"
         },
@@ -12,7 +12,7 @@
             "category": "array",
             "cname": "大行列10",
             "ename": "array10b",
-            "license": "行列 10 輸入法 (array10b) for OpenVanilla，版本 v2023-1.0\n釋出日期：2023-02-20\n詳細說明請參見 https://github.com/gontera/array10\n\n除蒐錄 array10a 的內容外，尚包括中日韓統一表意文字延伸 B 區 (Ext-B)，合計七萬餘字。因現階段尚無任何廠牌型號智慧手機及 iPad 或 Android 平板電腦之內建字型可以完整支援 Ext-B 範圍的定義（亦即在 Ext-B 區段會有大量以「〿」符號代表的缺字），除非您真的有在手機輸入這些文字的需求，否則不建議匯入使用。當然，如您將手機打好的文字轉貼到安裝有適當字型的個人電腦系統（如 Windows、macOS 及各種 Linux distros 等）上，應該就可以顯示原本應顯示的文字。",
+            "license": "行列 10 輸入法 (array10b) for OpenVanilla，版本 v2023-1.0\n釋出日期：2023-02-20\n詳細說明請參見 https://github.com/gontera/array10",
             "name": "",
             "path": "table/array10b.cin.db"
         },
@@ -20,7 +20,7 @@
             "category": "array",
             "cname": "全行列10",
             "ename": "array10c",
-            "license": "行列 10 輸入法 (array10c) for OpenVanilla，版本 v2023-1.0\n釋出日期：2023-02-20\n詳細說明請參見 https://github.com/gontera/array10\n\n為包括中日韓統一表意文字延伸 G 區 (Ext-G)，合計九萬二千餘字（c 代表 \"Complete Set\"，即蒐錄的範圍為「全字集」之意），蒐錄的字集範圍最廣、字數最多。不建議在手機上使用，係提供輸入法開發者將行列 10 移植到個人電腦系統，或做為研究行列 10 輸入法之用。",
+            "license": "行列 10 輸入法 (array10c) for OpenVanilla，版本 v2023-1.0\n釋出日期：2023-02-20\n詳細說明請參見 https://github.com/gontera/array10",
             "name": "",
             "path": "table/array10c.cin.db"
         },
@@ -36,7 +36,7 @@
             "category": "array",
             "cname": "行列30-大字集",
             "ename": "array30-big",
-            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n大字集版 (big)：完整收錄 Unicode 內碼為 4 位數及 5 位數 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G 字集範圍。\n\n---\n\nOkidoKey 版本字根表包含一、二級簡碼及特別碼",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki",
             "name": "",
             "path": "table/array30-OkidoKey-big.cin.db"
         },
@@ -44,7 +44,7 @@
             "category": "array",
             "cname": "行列30",
             "ename": "array30",
-            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n標準版 (regular)：僅收錄 Unicode 內碼為 4 位數 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C。CJK Ext-A 字集範圍亦收錄於此版本。\n\n---\n\nOkidoKey 版本字根包含一、二級簡碼及特別碼",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki",
             "name": "",
             "path": "table/array30-OkidoKey.cin.db"
         },
@@ -156,7 +156,7 @@
             "category": "misc",
             "cname": "矧码",
             "ename": "ghcm",
-            "license": "build: 2024/08/21 17:22:10\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
+            "license": "build: 2024/11/28 17:45:34\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
             "name": "",
             "path": "table/ghcm.cin.db"
         },
@@ -447,5 +447,5 @@
             "github": 4
         }
     },
-    "version": "20240903170854"
+    "version": "20241128181156"
 }
