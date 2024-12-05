@@ -299,153 +299,153 @@
     ],
     "splits": {
         "array10a.cin.db": {
-            "gitee": 3,
-            "github": 2
+            "github": 2,
+            "gitlab": 2
         },
         "array10b.cin.db": {
-            "gitee": 7,
-            "github": 4
+            "github": 4,
+            "gitlab": 4
         },
         "array10c.cin.db": {
-            "gitee": 9,
-            "github": 5
+            "github": 5,
+            "gitlab": 5
         },
         "array26.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "array30-OkidoKey-big.cin.db": {
-            "gitee": 9,
-            "github": 5
+            "github": 5,
+            "gitlab": 5
         },
         "array30-OkidoKey.cin.db": {
-            "gitee": 3,
-            "github": 2
+            "github": 2,
+            "gitlab": 2
         },
         "array40.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "bpmf-Hsu.cin.db": {
-            "gitee": 3,
-            "github": 2
+            "github": 2,
+            "gitlab": 2
         },
         "bpmf-cns.cin.db": {
-            "gitee": 6,
-            "github": 3
+            "github": 3,
+            "gitlab": 3
         },
         "bpmf.cin.db": {
-            "gitee": 5,
-            "github": 3
+            "github": 3,
+            "gitlab": 3
         },
         "cangjie6.cin.db": {
-            "gitee": 8,
-            "github": 4
+            "github": 4,
+            "gitlab": 4
         },
         "cj.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "cj5.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "corner.cin.db": {
-            "gitee": 1,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "daibuun.cin.db": {
-            "gitee": 1,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "dayi2.cin.db": {
-            "gitee": 1,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "dayi3.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "dayi4.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "freenewcj.cin.db": {
-            "gitee": 3,
-            "github": 2
+            "github": 2,
+            "gitlab": 2
         },
         "ghcm.cin.db": {
-            "gitee": 60,
-            "github": 30
+            "github": 30,
+            "gitlab": 30
         },
         "jidianwubi.cin.db": {
-            "gitee": 7,
-            "github": 4
+            "github": 4,
+            "gitlab": 4
         },
         "jyut6ping3-toneless.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "jyut6ping3.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "lxsy_0.40.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "lxsy_0.41.cin.db": {
-            "gitee": 1,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "pinyin.cin.db": {
-            "gitee": 6,
-            "github": 3
+            "github": 3,
+            "gitlab": 3
         },
         "pinyinbig5.cin.db": {
-            "gitee": 1,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "scj6.cin.db": {
-            "gitee": 4,
-            "github": 2
+            "github": 2,
+            "gitlab": 2
         },
         "scj7.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "shuangpin.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "simplex.cin.db": {
-            "gitee": 1,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "stroke-bsm.cin.db": {
-            "gitee": 3,
-            "github": 2
+            "github": 2,
+            "gitlab": 2
         },
         "stroke-g6code.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "stroke-stroke5-keypad.cin.db": {
-            "gitee": 2,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "taiwain-minnan-zhuyin.cin.db": {
-            "gitee": 1,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "wut.cin.db": {
-            "gitee": 1,
-            "github": 1
+            "github": 1,
+            "gitlab": 1
         },
         "zhengma.cin.db": {
-            "gitee": 7,
-            "github": 4
+            "github": 4,
+            "gitlab": 4
         }
     },
-    "version": "20241128183445"
+    "version": "20241205173559"
 }
