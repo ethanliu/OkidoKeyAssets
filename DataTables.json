@@ -156,7 +156,7 @@
             "category": "misc",
             "cname": "矧码",
             "ename": "ghcm",
-            "license": "build: 2024/11/28 17:45:34\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
+            "license": "build: 2024/12/06 17:14:39\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
             "name": "",
             "path": "table/ghcm.cin.db"
         },
@@ -299,153 +299,116 @@
     ],
     "splits": {
         "array10a.cin.db": {
-            "github": 2,
-            "gitlab": 2
+            "github": 2
         },
         "array10b.cin.db": {
-            "github": 4,
-            "gitlab": 4
+            "github": 4
         },
         "array10c.cin.db": {
-            "github": 5,
-            "gitlab": 5
+            "github": 5
         },
         "array26.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "array30-OkidoKey-big.cin.db": {
-            "github": 5,
-            "gitlab": 5
+            "github": 5
         },
         "array30-OkidoKey.cin.db": {
-            "github": 2,
-            "gitlab": 2
+            "github": 2
         },
         "array40.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "bpmf-Hsu.cin.db": {
-            "github": 2,
-            "gitlab": 2
+            "github": 2
         },
         "bpmf-cns.cin.db": {
-            "github": 3,
-            "gitlab": 3
+            "github": 3
         },
         "bpmf.cin.db": {
-            "github": 3,
-            "gitlab": 3
+            "github": 3
         },
         "cangjie6.cin.db": {
-            "github": 4,
-            "gitlab": 4
+            "github": 4
         },
         "cj.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "cj5.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "corner.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "daibuun.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "dayi2.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "dayi3.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "dayi4.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "freenewcj.cin.db": {
-            "github": 2,
-            "gitlab": 2
+            "github": 2
         },
         "ghcm.cin.db": {
-            "github": 30,
-            "gitlab": 30
+            "github": 30
         },
         "jidianwubi.cin.db": {
-            "github": 4,
-            "gitlab": 4
+            "github": 4
         },
         "jyut6ping3-toneless.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "jyut6ping3.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "lxsy_0.40.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "lxsy_0.41.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "pinyin.cin.db": {
-            "github": 3,
-            "gitlab": 3
+            "github": 3
         },
         "pinyinbig5.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "scj6.cin.db": {
-            "github": 2,
-            "gitlab": 2
+            "github": 2
         },
         "scj7.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "shuangpin.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "simplex.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "stroke-bsm.cin.db": {
-            "github": 2,
-            "gitlab": 2
+            "github": 2
         },
         "stroke-g6code.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "stroke-stroke5-keypad.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "taiwain-minnan-zhuyin.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "wut.cin.db": {
-            "github": 1,
-            "gitlab": 1
+            "github": 1
         },
         "zhengma.cin.db": {
-            "github": 4,
-            "gitlab": 4
+            "github": 4
         }
     },
-    "version": "20241205173559"
+    "version": "20241206174734"
 }
