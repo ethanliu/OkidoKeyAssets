@@ -1,0 +1,414 @@
+{
+    "datatables": [
+        {
+            "category": "array",
+            "cname": "行列10",
+            "ename": "array10a",
+            "license": "行列 10 輸入法 (array10a) for OpenVanilla，版本 v2023-1.0\n釋出日期：2023-02-20\n詳細說明請參見 https://github.com/gontera/array10",
+            "name": "",
+            "path": "table/array10a.cin.db"
+        },
+        {
+            "category": "array",
+            "cname": "大行列10",
+            "ename": "array10b",
+            "license": "行列 10 輸入法 (array10b) for OpenVanilla，版本 v2023-1.0\n釋出日期：2023-02-20\n詳細說明請參見 https://github.com/gontera/array10",
+            "name": "",
+            "path": "table/array10b.cin.db"
+        },
+        {
+            "category": "array",
+            "cname": "全行列10",
+            "ename": "array10c",
+            "license": "行列 10 輸入法 (array10c) for OpenVanilla，版本 v2023-1.0\n釋出日期：2023-02-20\n詳細說明請參見 https://github.com/gontera/array10",
+            "name": "",
+            "path": "table/array10c.cin.db"
+        },
+        {
+            "category": "array",
+            "cname": "行列廿六",
+            "ename": "array26",
+            "license": "---\n名稱：行列輸入法廿六鍵版之香草模組對照表（array26.cin）\n版本：0.4\n日期：2007 年 06 月 26 日\n本 array26.cin 原始檔案是由林沛熙（lin_pepsi@yahoo.com）\n根據開放香草輸入法（OpenVanilla）中，\n由霍東靈 AnthonyFok<foka@debian.org>君所整理之對照表修改而成。\n據悉，霍君利用行列科技在所提供之行列 30 對照表（1996 年版），\n並承葉光哲 (gontera) 君與 zonble 鼎力協助，將字碼擴增為 unicode 字集，\n並支援一級簡碼外（不支援二級簡碼）與行列特別碼。\n感謝行列輸入法（行列科技）的發明人廖明德先生\n慷慨提供包含繁、簡中文字集共二萬九千餘字的 unicode 字集對照檔，\n並開放免費授權予社群進行修改與增補。\n本檔案採 General Public License 授權，\n歡迎各界無償（或僅收取適當成本）流通及使用；\n本檔案歡迎使用者自行修改，\n惟修改之後之檔案，亦須遵照 GPL 協定開放授權。\n本檔案之 GPL 授權，與行列輸入法及行列科技無關，\n行列輸入法及其相關法律權利，蓋屬行列科技所有。\n有關行列輸入法，請參觀 http://www.array.com.tw 內的介紹。\n---",
+            "name": "",
+            "path": "table/array26.cin.db"
+        },
+        {
+            "category": "array",
+            "cname": "行列30-大字集",
+            "ename": "array30-big",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki",
+            "name": "",
+            "path": "table/array30-OkidoKey-big.cin.db"
+        },
+        {
+            "category": "array",
+            "cname": "行列30",
+            "ename": "array30",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki",
+            "name": "",
+            "path": "table/array30-OkidoKey.cin.db"
+        },
+        {
+            "category": "array",
+            "cname": "行列40",
+            "ename": "Array40",
+            "license": "行列 40 鍵輸入法 for OpenVanilla\n版本：0.15\n作者：葉光哲（老刀） MSN: gontera_yeh@hotmail.com\n\n以下的說明文字中，「行列輸入法」係指早期的 40 鍵版本；行列輸入法 30 鍵的版本以\n「行列 30」稱之。\n\n這個早期版本的行列輸入法最初是內含於倚天中文系統之中。它與目前流行的「行列 30」輸入法\n不同。OpenVanilla 標準安裝套件中已包含了「行列 30」輸入法，如果您是該版本的使用者，則\n無須安裝本輸入法。本輸入法係特別針對早期行列輸入法的使用者所設計。本輸入法對照表是從\n「行列輸入法的家」網站（即行列輸入法官方網站）提供的 Windows 版行列輸入法（下載連結為\nhttp://www.array.com.tw/BOX/AR40NT_2K_XP.zip）轉置而來。\n\n\n本檔案和行列輸入法規格書不同之處：\n\n鍵位在螢幕上的表示方式。因 Mac OS X 並未採用倚天中文的做法，將行列輸入法的鍵位符號\n編入其中文字集內，故在此除了借用「行列 30」的下箭頭 (⇣) 代表第 7, 8, 9, 0 列、上箭頭 (⇡)\n代表第 1, 2 列之外，另以「⌅」符號代表 3, 4, 5, 6 列。\n\n版本說明：\n0.11 第一版\n0.15 新增支援標點符號輸入\n\n註：本輸入法僅支援 Big-5 範圍的正體中文字集；筆者並無加入支援 Unicode 字集的計畫。如果\n「支援 Unicode 字集」對您很重要，強烈建議您改用「行列 30」輸入法。最後以官方網站的一段\n話，做為說明文字的結尾：「此專為舊版行列 40 鍵版使用者服務，希望 40 鍵版的使用者，最好還\n是改用新版的行列 30 輸入法才是上策」。",
+            "name": "",
+            "path": "table/array40.cin.db"
+        },
+        {
+            "category": "zhuyin",
+            "cname": "注音-許氏鍵盤",
+            "ename": "PhoneticHsu",
+            "license": "",
+            "name": "",
+            "path": "table/bpmf-Hsu.cin.db"
+        },
+        {
+            "category": "zhuyin",
+            "cname": "全字庫注音",
+            "ename": "PhoneticCNS",
+            "license": "version: 2019/01/18 18:43:41\n本注音表格資料來源取自全字庫中文標準交換碼 https://www.cns11643.gov.tw\n不包含未能賦予注音的字元，如標點符號、日文、藏文等等字元，\n並以字根、常用字，注音順序、符號 (若包含) 順序重新排序。\n\n本資料「常用字」欄係指民國 71 年 9 月 1 日教育部公告的「常用國字標準字體表」所收錄之常用字。\n如：一、丁、七、三、下、丈、上等等，共計 4808 個常用字。",
+            "name": "",
+            "path": "table/bpmf-cns.cin.db"
+        },
+        {
+            "category": "zhuyin",
+            "cname": "",
+            "ename": "",
+            "license": "正體注音輸入法 94.2\n網址: http://www.cns11643.gov.tw/web/download.jsp\n格式轉換 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007\n授權方式: Open Government Data License",
+            "name": "注音",
+            "path": "table/bpmf.cin.db"
+        },
+        {
+            "category": "cangjie",
+            "cname": "倉頡六代",
+            "ename": "Cangjie6",
+            "license": "此碼表依 rime-cangjie6 v0.31 轉換為 cin 格式 2018-01-16\n\n\n單字碼表自百度貼吧「倉頡」吧網友风易辞得\n又：\n蒼頡六代構詞碼碼表\n由雪齋、惜緣整理於 2013-01-29\ncrazy4u 根据雪齋發佈的碼表增二萬餘字 2013-02-19\ncrazy4u 增易經八卦符號 2013-03-26\n單字編碼兼顧宋體、細明體字形 crazy4u 2013-04-02\n又增一千字 crazy4u 2013-04-27\n增加組詞分隔符、正體字字頻 雪齋 2013-05-30\n採用相對字頻 雪齋 2013-12-09\n增加擴展 E 區字 雪齋 2014-11-03\n\n本字表收中日韓越統一表意文字及其擴展 A、B、C、D、E 區另加相容表意文字區之 12 箇獨立字、相容表意文字擴充區 28 箇獨立字。\n取碼依宋體及明體。另：擴展 B 區有三個重複收錄字，本表錄之，但加「#」註。\n\n\nLicense: GPL",
+            "name": "",
+            "path": "table/cangjie6.cin.db"
+        },
+        {
+            "category": "cangjie",
+            "cname": "倉頡",
+            "ename": "CangJie",
+            "license": "CangJie input method table tweaked by b6s for OVIMGeneric(SQLite) in UTF-8 encoding.\n\nThis table also extended to include HKSCS encodings. For details, see\nhttp://www.info.gov.hk/digital21/chi/hkscs/index.html",
+            "name": "",
+            "path": "table/cj.cin.db"
+        },
+        {
+            "category": "cangjie",
+            "cname": "倉頡五代",
+            "ename": "Cangjie-5",
+            "license": "ChangJei input method table for UTF-8 encoding.\n\nConverted from http://www.cbflabs.com/tec.htm\nby Janus Ng on Dec 30, 2004",
+            "name": "",
+            "path": "table/cj5.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "四角號碼",
+            "ename": "Corners",
+            "license": "",
+            "name": "",
+            "path": "table/corner.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "普實台文",
+            "ename": "daibuun",
+            "license": "普實台文輸入法 1.0 版\n趙惟倫 <chaoweilun@pcmail.com.tw> GPL 2004.5\n修改自 daibuun.tit (趙惟倫 1997.10)\n根據普實台文 <http://www.taconet.com.tw/hioong/>",
+            "name": "",
+            "path": "table/daibuun.cin.db"
+        },
+        {
+            "category": "dayi",
+            "cname": "大易二碼",
+            "ename": "DaYi2",
+            "license": "本表格由太易資訊公司 (http://www.dayi.com) 授權，開放給使用者下載使用。\n\n使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格\n的格式以適合其他平台或輸入法軟體使用。\n2013/11/27 修改 https://github.com/dabinn/Miss-Apple-dayi2-IME",
+            "name": "",
+            "path": "table/dayi2.cin.db"
+        },
+        {
+            "category": "dayi",
+            "cname": "大易",
+            "ename": "Dayi3",
+            "license": "本表格由太易資訊公司 (http://www.dayi.com) 授權，開放給使用者下載使用。\n\n使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格\n的格式以適合其他平台或輸入法軟體使用。",
+            "name": "",
+            "path": "table/dayi3.cin.db"
+        },
+        {
+            "category": "dayi",
+            "cname": "大易四碼",
+            "ename": "DaYi4:en;大易四码:zh_CN;大易四碼:zh;",
+            "license": "本表格由太易資訊公司 (http://www.dayi.com) 授權，開放給使用者下載使用。\n\n使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格\n的格式以適合其他平台或輸入法軟體使用。",
+            "name": "",
+            "path": "table/dayi4.cin.db"
+        },
+        {
+            "category": "cangjie",
+            "cname": "自由大新",
+            "ename": "FreeNewCJ",
+            "license": "自由大新倉頡專業 7.0 國際版\n網址: http://cle.linux.org.tw/trac/wiki/FreeNewCJCin\n原版商業公司: http://www.eztyping.com.tw/\ncopyright (c) 2006-2007 by FreeNewCJCin\n格式轉換 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007\n授權方式: Public Domain",
+            "name": "",
+            "path": "table/freenewcj.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "矧码",
+            "ename": "ghcm",
+            "license": "build: 2024/12/06 17:14:39\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
+            "name": "",
+            "path": "table/ghcm.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "极点五笔",
+            "ename": "jidianWubi (JiDianWubi)",
+            "license": "极点五笔，全称为“极点中文汉字输入平台”，開發者為杜志民。\n极点五笔是一款完全免费的，以五笔输入为主，拼音输入为辅的中文输入软件。\n它同时支持 86 版和 98 版两种五笔编码，全面支持 GBK：避免了以往传统五笔对于「镕」「堃」「喆」「玥」「冇」「啰」等汉字无法录入的尴尬。\n同时，极点五笔完美支持一笔、二笔等各种“型码”及“音型码”输入法。",
+            "name": "",
+            "path": "table/jidianwubi.cin.db"
+        },
+        {
+            "category": "pinying",
+            "cname": "粵拼 (無調號)",
+            "ename": "Jyut6ping3 (Toneless)",
+            "license": "Jyut6ping3 - 粵拼 (無調號)\nVersion: 2023.06.01\n\n本 CIN 表格轉換自 Rime 粵語拼音方案 jyut6ping3.chars.dict.yaml\n不含詞彙內容，將拼音去除空格後合併，並保留詞頻做為取字順序。\n詞頻為 0% 為罕用詞，給予低優先權，未含詞頻者為一般優先權，不含 % 之詞頻仍視為 % 比例，屬高優先權詞彙。\n\n本檔案與原始來源相同，採共享創意 - 姓名標示 4.0 國際 (CC BY 4.0) 協議。\n\nRime 粵語拼音方案: https://github.com/rime/rime-cantonese\n共享創意 - 姓名標示 4.0 國際: https://creativecommons.org/licenses/by/4.0/deed.zh_TW",
+            "name": "",
+            "path": "table/jyut6ping3-toneless.cin.db"
+        },
+        {
+            "category": "pinying",
+            "cname": "粵拼",
+            "ename": "Jyut6ping3",
+            "license": "Jyut6ping3 - 粵拼\nVersion: 2023.06.01\n\n本 CIN 表格轉換自 Rime 粵語拼音方案 jyut6ping3.chars.dict.yaml\n不含詞彙內容，將拼音去除空格後合併，並保留詞頻做為取字順序。\n詞頻為 0% 為罕用詞，給予低優先權，未含詞頻者為一般優先權，不含 % 之詞頻仍視為 % 比例，屬高優先權詞彙。\n\n本檔案與原始來源相同，採共享創意 - 姓名標示 4.0 國際 (CC BY 4.0) 協議。\n\nRime 粵語拼音方案: https://github.com/rime/rime-cantonese\n共享創意 - 姓名標示 4.0 國際: https://creativecommons.org/licenses/by/4.0/deed.zh_TW",
+            "name": "",
+            "path": "table/jyut6ping3.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "灵形速影",
+            "ename": "LXSY",
+            "license": "名称：灵形速影（简称 lxsy）\n原作者：消逝\n版本：针对字的版本为 0.40 优化，针对词的为 0.41 版本\n特此授权给 OkidoKey 无偿使用 任何人都可免费内建此词库（无关收费 APP 与否）\n本词库为开源词库，可以修改、复制以及散布此输入法表格，且修改后看输入法表格中若有任何错误等问题，皆与原作者无关。\n本词库为群友为了符合情况进行键位替换。\n另：转载请注明出处，更多关于原作者信息请访问极速社区 http://www.jsxiaoshi.com/",
+            "name": "",
+            "path": "table/lxsy_0.40.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "灵形速影(词)",
+            "ename": "LXSY",
+            "license": "名称：灵形速影（简称 lxsy）\n原作者：消逝\n版本：针对字的版本为 0.40 优化，针对词的为 0.41 版本\n特此授权给 OkidoKey 无偿使用 任何人都可免费内建此词库（无关收费 APP 与否）\n本词库为开源词库，可以修改、复制以及散布此输入法表格，且修改后看输入法表格中若有任何错误等问题，皆与原作者无关。\n本词库为群友为了符合情况进行键位替换。\n另：转载请注明出处，更多关于原作者信息请访问极速社区 http://www.jsxiaoshi.com/",
+            "name": "",
+            "path": "table/lxsy_0.41.cin.db"
+        },
+        {
+            "category": "pinying",
+            "cname": "简体汉語拼音",
+            "ename": "Pinyin (Simplified Chinese)",
+            "license": "",
+            "name": "",
+            "path": "table/pinyin.cin.db"
+        },
+        {
+            "category": "pinying",
+            "cname": "正體漢語拼音",
+            "ename": "PinyinTW",
+            "license": "",
+            "name": "",
+            "path": "table/pinyinbig5.cin.db"
+        },
+        {
+            "category": "cangjie",
+            "cname": "快倉六",
+            "ename": "scj6",
+            "license": "This file must be encoded into UTF-8.\nThis file comes from http://www.scj2000.net\n---\n快倉 2000_ 快速倉頡輸入法第六代 (v6.2.2)\n---\n網址: http://www.scj2000.com\n網址: http://www.scj2000.net\nCopyright (C) 2002-2009 麥志洪 <makchehu@netvigator.com>\nCopyright (C) 2002-2009 Quintus Leung <quintus@scj2000.net>\n授權方式: GPL version 3\nThis program is free software; you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation; either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along\nwith this program; if not, write to the Free Software Foundation, Inc.,\n51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.\n\nSupported Characters: 15,270 Unique Traditional and Simplified Chinese Characters\nSupported Encodings : Unicode4.0, BIG5, BIG5-HKSCS, GB18030, GBK, GB\n\n---\n倉頡第五代國際版\n---\n輸入法發明人：朱邦復先生 http://www.cbflabs.com\n碼表統一維護：倉頡之友. 馬來西亞  http://www.chinesecj.com\n倉頡輸入版權：本輸入法無版權，歡迎大家復制使用及推廣倉頡。\n\n---\n倉頡第三代\n---\n輸入法發明人：朱邦復先生 http://www.cbflabs.com\n碼表維護：倉頡之友. 馬來西亞  http://www.chinesecj.com",
+            "name": "",
+            "path": "table/scj6.cin.db"
+        },
+        {
+            "category": "cangjie",
+            "cname": "快倉七代",
+            "ename": "Speedy-Changjei-7",
+            "license": "SpeedChangJei input method table for UTF-8 encoding.\n\nConverted from http://www.scj2000.com/ by Janus Ng on Dec 31, 2004\ndigit terminated and some single key characters remapped\n\nThis table also extended to include HKSCS encodings. For details, see\nhttp://www.info.gov.hk/digital21/chi/hkscs/index.html",
+            "name": "",
+            "path": "table/scj7.cin.db"
+        },
+        {
+            "category": "pinying",
+            "cname": "简体双拼",
+            "ename": "[CN]Shuangpin",
+            "license": "",
+            "name": "",
+            "path": "table/shuangpin.cin.db"
+        },
+        {
+            "category": "cangjie",
+            "cname": "簡易（速成）",
+            "ename": "Simplex",
+            "license": "",
+            "name": "",
+            "path": "table/simplex.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "筆順碼",
+            "ename": "BSM:en;笔顺码:zh_CN;筆順碼:zh;",
+            "license": "筆順碼輸入法\n碼表取自 https://github.com/siuying/BSMInputMethod\n發明人: 王頌平教授\n代理 (已停止)： http://www.freefire.com.hk/\n格式修改 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2017\n授權方式: Public Domain",
+            "name": "",
+            "path": "table/stroke-bsm.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "六碼筆畫",
+            "ename": "G6Code:en;六码笔画:zh_CN;六碼筆畫:zh;",
+            "license": "六碼筆畫輸入法\nhttp://www.miniapps.hk/g6code/\n發明人: 香港城市大學電子工程學系布禮文博士開發團隊\n格式修改 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2023\n授權方式: Public Domain",
+            "name": "",
+            "path": "table/stroke-g6code.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "",
+            "ename": "Stroke5-Keypad",
+            "license": "筆順五碼中文輸入法 1.0 版 <http://sf.net/projects/stroke5input>\n版權: GPL v3\n<Stroke5 Chinese Input Method> is an open source project created by Hong Kong Seniors IT Advocates at 2003. Only use five keys and follow the stroke order to input Chinese characters.\nCopyright (C) <2003>  <Leung King man (Hong Kong Seniors IT Advocates)>\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details. <http://www.gnu.org/licenses/>\n\n支援及維護: 香港長者資訊天地 Hong Kong Seniors IT Advocates\n開發人士名單:\n梁敬文 Leung King Man <leung8964@yahoo.com.hk>\n王潔貞 Amy Wong\n陳荃 Chan Chuen\n龍正忠 Lung Ching Chung\n古國義 Richard Ku\n王林根 Mike Wong\n郭楷 Kwok Kai\n呂蔡美冬 Vivian Choi\n關婉慈 Wendy Kwan\n陳玉萍 Pinky Chan\n羅君琦 Kae Kae Law\n\n1.0 版於 2011 年 9 月 20 日面世, 增加支援至 26,000 字, 修正輸入筆劃錯誤\n0.9 版於 2011 年 3 月 25 日面世, 增加支援至 17,000 字, 編碼改為 Unicode, 及參考香港教育局\"香港小學學習字詞表\"的筆順次序\n0.4 版於 2003 年 11 月 6 日面世, 修正輸入筆劃錯誤\n0.3 版於 2003 年 10 月 28 日面世, 對比\"百家姓\", 加入 37 字\n0.2 版於 2003 年 10 月 25 日面世, 對比香港政府的\"常用字字形表\", 加入 620 字\n0.1 版於 2003 年 10 月 17 日面世, 用於內部測試, 根據何秀煌教授的 80-90 年代字頻研究, 安排 4600 字\n\n此表格 Stroke5-Keypad 依據原筆順五碼中文輸入法 1.0 版，將字根 nm,./ 依序更換為 51342",
+            "name": "筆順五碼",
+            "path": "table/stroke-stroke5-keypad.cin.db"
+        },
+        {
+            "category": "zhuyin",
+            "cname": "台式閩南語注音",
+            "ename": "TaiwanMinNanZhuYin",
+            "license": "By Arne Götje after Yang Ching-chu's Taiwanese Dictionary",
+            "name": "",
+            "path": "table/taiwain-minnan-zhuyin.cin.db"
+        },
+        {
+            "category": "zhuyin",
+            "cname": "吳語注音法（正體）",
+            "ename": "Wu Phonetic (Traditional)",
+            "license": "",
+            "name": "",
+            "path": "table/wut.cin.db"
+        },
+        {
+            "category": "misc",
+            "cname": "中易郑码",
+            "ename": "ZhengMa:en;中易郑码:zh_CN;中易鄭碼:zh;",
+            "license": "鄭碼 is invented by 郑易里 & 郑珑, Thanks them for this excellent Input Method!\nSpecial thanks to 張韡武, who provide his own table to me to redistribute.\nThe character encodings for GB18030 is come from ZhengMa-6.6,\nthe COPYRIGHTS is belong to ZhongYi Inc.;\nCJK-A goucima is add by myself, granted as GPL.\nCJK-B, CJK-C character encodings are come from 一呜惊人 <ranglming@126.com>\nThis table use the 5-code-ZhengMa schema to encode phrases, which\nmake phrases above 2 characters more discreted. This method is\nsuggested by \"郑码大师\" in www.zmfans.cn/bbs\nThe other parts of this table under LGPL\n\nredistributed by Yu Yuwei <acevery@gmail.com> at\nhttps://github.com/acevery/ibus-table-zhengma\n\nconverted to Rime dictionary by GONG Chen <chen.sst@gmail.com>\n\n網址: http://zmdisk.ys168.com/\n格式修改 (無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2020\n授權方式: GPLv3",
+            "name": "",
+            "path": "table/zhengma.cin.db"
+        }
+    ],
+    "splits": {
+        "array10a.cin.db": {
+            "github": 2
+        },
+        "array10b.cin.db": {
+            "github": 4
+        },
+        "array10c.cin.db": {
+            "github": 5
+        },
+        "array26.cin.db": {
+            "github": 1
+        },
+        "array30-OkidoKey-big.cin.db": {
+            "github": 5
+        },
+        "array30-OkidoKey.cin.db": {
+            "github": 2
+        },
+        "array40.cin.db": {
+            "github": 1
+        },
+        "bpmf-Hsu.cin.db": {
+            "github": 2
+        },
+        "bpmf-cns.cin.db": {
+            "github": 3
+        },
+        "bpmf.cin.db": {
+            "github": 3
+        },
+        "cangjie6.cin.db": {
+            "github": 4
+        },
+        "cj.cin.db": {
+            "github": 1
+        },
+        "cj5.cin.db": {
+            "github": 1
+        },
+        "corner.cin.db": {
+            "github": 1
+        },
+        "daibuun.cin.db": {
+            "github": 1
+        },
+        "dayi2.cin.db": {
+            "github": 1
+        },
+        "dayi3.cin.db": {
+            "github": 1
+        },
+        "dayi4.cin.db": {
+            "github": 1
+        },
+        "freenewcj.cin.db": {
+            "github": 2
+        },
+        "ghcm.cin.db": {
+            "github": 30
+        },
+        "jidianwubi.cin.db": {
+            "github": 4
+        },
+        "jyut6ping3-toneless.cin.db": {
+            "github": 1
+        },
+        "jyut6ping3.cin.db": {
+            "github": 1
+        },
+        "lxsy_0.40.cin.db": {
+            "github": 1
+        },
+        "lxsy_0.41.cin.db": {
+            "github": 1
+        },
+        "pinyin.cin.db": {
+            "github": 3
+        },
+        "pinyinbig5.cin.db": {
+            "github": 1
+        },
+        "scj6.cin.db": {
+            "github": 2
+        },
+        "scj7.cin.db": {
+            "github": 1
+        },
+        "shuangpin.cin.db": {
+            "github": 1
+        },
+        "simplex.cin.db": {
+            "github": 1
+        },
+        "stroke-bsm.cin.db": {
+            "github": 2
+        },
+        "stroke-g6code.cin.db": {
+            "github": 1
+        },
+        "stroke-stroke5-keypad.cin.db": {
+            "github": 1
+        },
+        "taiwain-minnan-zhuyin.cin.db": {
+            "github": 1
+        },
+        "wut.cin.db": {
+            "github": 1
+        },
+        "zhengma.cin.db": {
+            "github": 4
+        }
+    },
+    "version": "20241210153852"
+}
