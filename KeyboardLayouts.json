@@ -95,23 +95,121 @@
         "array-keypad1-choco": {
             "category": "array",
             "charsets": [
-                "[esc][1][2][3][del]",
-                "[w*:w][4][5][6][(]",
-                "[globe][7][8][9][space]",
+                "[esc][1][2:abc][3:def][del]",
+                "[w*:w][4:ghi][5:jkl][6:mno][(]",
+                "[globe][7:pqrs][8:tuv][9:wxyz][space]",
                 "[next][,][0][.][return]"
             ],
-            "description": "行列(數字1)"
+            "description": "行列(數字1)",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
         "array-keypad2-choco": {
             "category": "array",
             "charsets": [
-                "[esc][1][2][3][del]",
-                "[(][4][5][6][：]",
-                "[\"][7][8][9][？]",
-                "[，][,][0][.][。]",
+                "[esc][1][2:abc][3:def][del]",
+                "[(][4:ghi][5:jkl][6:mno][\"]",
+                "[:][7:pqrs][8:tuv][9:wxyz][!]",
+                "[/][,][0][.][?]",
                 "[next][globe][space][w*:w][return]"
             ],
-            "description": "行列(數字2)"
+            "description": "行列(數字2)",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
         "array-pad": {
             "category": "array",
@@ -127,27 +225,125 @@
         "array-position1-choco": {
             "category": "array",
             "charsets": [
-                "[esc][1][2][3][del]",
-                "[w*:w][4][5][6][，]",
-                "[-][7][8][9][。]",
+                "[esc][1][2:abc][3:def][del]",
+                "[w*:w][4:ghi][5:jkl][6:mno][，]",
+                "[-][7:pqrs][8:tuv][9:wxyz][。]",
                 "[globe][,][0][.][space]",
                 "[next][⇡*][–*][⇣*][return]"
             ],
-            "description": "行列(方向鍵1)"
+            "description": "行列(方向鍵1)",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
         "array10-choco": {
-            "category": "array",
+            "category": "array10",
             "charsets": [
-                "[1][2][3]",
-                "[4][5][6]",
-                "[7][8][9]",
+                "[1][2:abc][3:def]",
+                "[4:ghi][5:jkl][6:mno]",
+                "[7:pqrs][8:tuv][9:wxyz]",
                 "[，][0][。]",
                 "[next][globe][space][del][return]"
             ],
-            "description": "行列10"
+            "description": "行列10",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
         "array10-k14-flick-choco": {
-            "category": "array",
+            "category": "array10",
             "charsets": [
                 "[（][1][2][3][“]",
                 "[「][4][5][6][、]",
@@ -201,6 +397,10 @@
                     "down": "L",
                     "up": ""
                 },
+                "。": {
+                    "down": ".",
+                    "up": "255"
+                },
                 "「": {
                     "down": "A",
                     "up": "S"
@@ -212,30 +412,133 @@
                 "（": {
                     "down": "Q",
                     "up": "W"
+                },
+                "，": {
+                    "down": ",",
+                    "up": "23"
+                },
+                "？": {
+                    "down": "?",
+                    "up": "!"
                 }
             }
         },
         "array10-layout2-choco": {
-            "category": "array",
+            "category": "array10",
             "charsets": [
-                "[esc][1][2][3][del]",
-                "[（][4][5][6][：]",
-                "[“][7][8][9][！]",
+                "[esc][1][2:abc][3:def][del]",
+                "[（][4:ghi][5:jkl][6:mno][：]",
+                "[“][7:pqrs][8:tuv][9:wxyz][！]",
                 "[、][，][0][。][？]",
                 "[next][globe][space][return]"
             ],
-            "description": "行列10"
+            "description": "行列10",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
-        "array10-pad": {
-            "category": "array",
+        "array10-qz-choco": {
+            "category": "array10",
             "charsets": [
-                "[（][1][2][3][“]",
-                "[「][4][5][6][：]",
-                "[ー][7][8][9][！]",
+                "[esc][1:QZ][2:ABC][3:DEF][del]",
+                "[（][4:GHI][5:JKL][6:MNO][：]",
+                "[“][7:PRS][8:TUV][9:WXY][！]",
                 "[、][，][0][。][？]",
-                "[next][globe][space][del][return][dismiss]"
+                "[next][globe][space][return]"
             ],
-            "description": "行列10"
+            "description": "行列10 (QZ)",
+            "popups": {
+                "1": [
+                    "q",
+                    "z"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y"
+                ]
+            }
         },
         "azerty": {
             "category": "azerty",
@@ -386,11 +689,11 @@
         "bpmf-gcin21-choco": {
             "category": "bpmf",
             "charsets": [
-                "[7:ㄅㄧ][8:ㄉㄛ][9:ㄍㄟ][+:ㄑㄢ][,:ㄕ˙]",
-                "[4:ㄆㄨ][5:ㄊㄜ][6:ㄎㄠ][-:ㄒㄤ][;:ㄖˊ]",
-                "[1:ㄇㄩ][2:ㄋㄝ][3:ㄏㄡ][x:ㄓㄥ][(:ㄗˇ]",
-                "[0:ㄈㄚ][/:ㄌㄞ][.:ㄐㄣ][%:ㄔㄦ][):ㄘˋ]",
-                "[next][globe][space][del][return][*:ㄙ]"
+                "[7:ㄅㄧ][8:ㄉㄛ][9:ㄍㄟ][＋:ㄑㄢ][，:ㄕ˙]",
+                "[4:ㄆㄨ][5:ㄊㄜ][6:ㄎㄠ][－:ㄒㄤ][；:ㄖˊ]",
+                "[1:ㄇㄩ][2:ㄋㄝ][3:ㄏㄡ][＊:ㄓㄥ][（:ㄗˇ]",
+                "[0:ㄈㄚ][／:ㄌㄞ][。:ㄐㄣ][％:ㄔㄦ][）:ㄘˋ]",
+                "[next][globe][space][del][return][“:ㄙ]"
             ],
             "description": "注音 21 鍵",
             "keynameType": "label"
@@ -505,25 +808,123 @@
             "category": "bpmf",
             "charsets": [
                 "[esc][1:ㄅㄉㄚ][2:ㄍㄐㄞ][3:ㄓㄗㄢㄦ][del]",
-                "[(][4:ㄆㄊㄛ][5:ㄎㄑㄟ][6:ㄔㄘㄣㄧ][ˊ:ˊ]",
+                "[？][4:ㄆㄊㄛ][5:ㄎㄑㄟ][6:ㄔㄘㄣㄧ][ˊ:ˊ]",
                 "[，][7:ㄇㄋㄜ][8:ㄏㄒㄠㄡ][9:ㄕㄙㄤㄨ][ˇ:ˇ]",
-                "[。][,:ㄈㄌㄝ][0:˙][.:ㄖㄥㄩ][ˋ:ˋ]",
+                "[。][（:ㄈㄌㄝ][0:˙][；:ㄖㄥㄩ][ˋ:ˋ]",
                 "[next][globe][space][return]"
             ],
             "description": "注音(Keypad1)",
-            "keynameType": "label"
+            "keynameType": "label",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
         "bpmf-keypad2-choco": {
             "category": "bpmf",
             "charsets": [
                 "[esc][1:ㄅㄉㄚ][2:ㄍㄐㄞˊ][3:ㄓㄗㄢㄦˇ][del]",
-                "[(][4:ㄆㄊㄛˋ][5:ㄎㄑㄟ][6:ㄔㄘㄣㄧ][：]",
-                "[\"][7:ㄇㄋㄜ][8:ㄏㄒㄠㄡ][9:ㄕㄙㄤㄨ][？]",
-                "[，][,:ㄈㄌㄝ][0:˙][.:ㄖㄥㄩ][。]",
+                "[＂][4:ㄆㄊㄛˋ][5:ㄎㄑㄟ][6:ㄔㄘㄣㄧ][？]",
+                "[：][7:ㄇㄋㄜ][8:ㄏㄒㄠㄡ][9:ㄕㄙㄤㄨ][，]",
+                "[；][（:ㄈㄌㄝ][0:˙][） :ㄖㄥㄩ][。]",
                 "[next][globe][space][return]"
             ],
             "description": "注音(Keypad2)",
-            "keynameType": "label"
+            "keynameType": "label",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
         "bpmf-keypad3-choco": {
             "category": "bpmf",
@@ -535,7 +936,56 @@
                 "[next][globe][space][return]"
             ],
             "description": "注音(Keypad3)",
-            "keynameType": "label"
+            "keynameType": "label",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
         "bpmf-keypad4-choco": {
             "category": "bpmf",
@@ -547,7 +997,56 @@
                 "[next][globe][space][return]"
             ],
             "description": "注音(Keypad4)",
-            "keynameType": "label"
+            "keynameType": "label",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
         "bpmf-pad": {
             "category": "bpmf",
@@ -802,14 +1301,130 @@
         "keypad-choco": {
             "category": "keypad",
             "charsets": [
-                "[1][2][3]",
-                "[4][5][6]",
-                "[7][8][9]",
+                "[1][2:ABC][3:DEF]",
+                "[4:GHI][5:JKL][6:MNO]",
+                "[7:PQRS][8:TUV][9:WXYZ]",
                 "[,][0][.]",
                 "[next][globe][space][del][return]"
             ],
             "description": "Keypad",
-            "keynameType": "label"
+            "keynameType": "label",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
+        },
+        "keypad-k14-choco": {
+            "category": "keypad",
+            "charsets": [
+                "[1:QW][2:ER][3:TY][4:UI][5:OP]",
+                "[6:AS][7:DF][8:GH][9:JK][0:L]",
+                "[shift][.:ZX][,:CV][?:BN][!:M][del]",
+                "[next][globe][space][return]"
+            ],
+            "description": "Keypad (K14)",
+            "keynameType": "label",
+            "popups": {
+                "!": [
+                    "m"
+                ],
+                ",": [
+                    "c",
+                    "v"
+                ],
+                ".": [
+                    "z",
+                    "x"
+                ],
+                "0": [
+                    "l"
+                ],
+                "1": [
+                    "q",
+                    "w"
+                ],
+                "2": [
+                    "e",
+                    "r"
+                ],
+                "3": [
+                    "t",
+                    "y"
+                ],
+                "4": [
+                    "u",
+                    "i"
+                ],
+                "5": [
+                    "o",
+                    "p"
+                ],
+                "6": [
+                    "a",
+                    "s"
+                ],
+                "7": [
+                    "d",
+                    "f"
+                ],
+                "8": [
+                    "g",
+                    "h"
+                ],
+                "9": [
+                    "j",
+                    "k"
+                ],
+                "?": [
+                    "b",
+                    "n"
+                ]
+            }
         },
         "keypad-pinyin-choco": {
             "category": "keypad",
@@ -819,8 +1434,57 @@
                 "[?][7:PQRS][8:TUV][9:WXYZ][0]",
                 "[next][globe][space][return]"
             ],
-            "description": "Keypad (2)",
-            "keynameType": "label"
+            "description": "Keypad (Pinyin)",
+            "keynameType": "label",
+            "popups": {
+                "1": [
+                    "_",
+                    "#",
+                    "@"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "q",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y",
+                    "z"
+                ]
+            }
         },
         "keypad-qz-choco": {
             "category": "keypad",
@@ -831,20 +1495,54 @@
                 "[,][0:+][.]",
                 "[next][globe][space][del][return]"
             ],
-            "description": "Keypad (1)",
-            "keynameType": "label"
-        },
-        "keypad-qz-pad": {
-            "category": "keypad",
-            "charsets": [
-                "[，][1:QZ][2:ABC][3:DEF][『]",
-                "[。][4:GHI][5:JKL][6:MNO][']",
-                "[！][7:PRS][8:TUV][9:WXY][:]",
-                "[？][,][0:+][.][/]",
-                "[next][globe][space][del][return][dismiss]"
-            ],
-            "description": "keypad (1)",
-            "keynameType": "label"
+            "description": "Keypad (QZ)",
+            "keynameType": "label",
+            "popups": {
+                "1": [
+                    "q",
+                    "z"
+                ],
+                "2": [
+                    "a",
+                    "b",
+                    "c"
+                ],
+                "3": [
+                    "d",
+                    "e",
+                    "f"
+                ],
+                "4": [
+                    "g",
+                    "h",
+                    "i"
+                ],
+                "5": [
+                    "j",
+                    "k",
+                    "l"
+                ],
+                "6": [
+                    "m",
+                    "n",
+                    "o"
+                ],
+                "7": [
+                    "p",
+                    "r",
+                    "s"
+                ],
+                "8": [
+                    "t",
+                    "u",
+                    "v"
+                ],
+                "9": [
+                    "w",
+                    "x",
+                    "y"
+                ]
+            }
         },
         "lxsy": {
             "category": "lxsy",
@@ -1009,16 +1707,15 @@
             ],
             "description": "QWERTY 全尺寸鍵盤"
         },
-        "qwerty-k14": {
+        "qwerty-keypad-pad": {
             "category": "qwerty",
             "charsets": [
-                "[1:QW][2:ER][3:TY][4:UI][5:OP]",
-                "[6:AS][7:DF][8:GH][9:JK][0:L]",
-                "[shift][.:ZX][,:CV][?:BN][!:M][del]",
-                "[next][globe][space][return]"
+                "[Q][W][E][R][T][dummy:2][7][8][9][dummy:2][Y][U][I][O][P][del]",
+                "[A][S][D][F][G][dummy:2][4][5][6][dummy:2][H][J][K][L][return]",
+                "[shift][Z][X][C][V][dummy:2][1][2][3][dummy:2][B][N][M][,][.][shift]",
+                "[next][globe][space][0][dismiss]"
             ],
-            "description": "QWERTY (K14)",
-            "keynameType": "label"
+            "description": "QWERTY-Keypad"
         },
         "qwerty-number": {
             "category": "qwerty",
@@ -1246,5 +1943,5 @@
             "description": "吳守禮臺語注音"
         }
     },
-    "version": "20241209164630"
+    "version": "20250717163359"
 }
