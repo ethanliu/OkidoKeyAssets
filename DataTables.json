@@ -34,11 +34,27 @@
         },
         {
             "category": "array",
+            "cname": "行列30-大字集(詞庫版)",
+            "ename": "array30-big-phrase",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n此表格包含簡碼 (%shortcode) 及特別碼 (%special)\n及行列輸入法官方收錄 6 萬詞的詞庫檔\n\n大字集版 (big)：完整收錄 Unicode 內碼為 4 位數及 5 位數 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G 字集範圍。\n\n2021/07/25 新增行列輸入法官方收錄 6 萬詞的詞庫檔（原先收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法作者廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，於開發行列輸入法軟體時採用）。\n行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「行列教室」之說明。",
+            "name": "",
+            "path": "table/array30-OkidoKey-big-phrase.cin.db"
+        },
+        {
+            "category": "array",
             "cname": "行列30-大字集",
             "ename": "array30-big",
             "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n此表格包含簡碼 (%shortcode) 及特別碼 (%special)\n\n大字集版 (big)：完整收錄 Unicode 內碼為 4 位數及 5 位數 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G 字集範圍。",
             "name": "",
             "path": "table/array30-OkidoKey-big.cin.db"
+        },
+        {
+            "category": "array",
+            "cname": "行列30(詞庫版)",
+            "ename": "array30-phrase",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n此表格包含簡碼 (%shortcode) 及特別碼 (%special)\n及行列輸入法官方收錄 6 萬詞的詞庫檔\n\n標準版 (regular)：僅收錄 Unicode 內碼為 4 位數 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C。CJK Ext-A 字集範圍亦收錄於此版本。\n\n2021/07/25 新增行列輸入法官方收錄 6 萬詞的詞庫檔（原先收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法作者廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，於開發行列輸入法軟體時採用）。\n行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「行列教室」之說明。",
+            "name": "",
+            "path": "table/array30-OkidoKey-phrase.cin.db"
         },
         {
             "category": "array",
@@ -156,7 +172,7 @@
             "category": "misc",
             "cname": "矧码",
             "ename": "ghcm",
-            "license": "build: 2025/07/19 19:09:36\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
+            "license": "build: 2025/08/07 17:58:20\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
             "name": "",
             "path": "table/ghcm.cin.db"
         },
@@ -281,6 +297,22 @@
             "path": "table/taiwain-minnan-zhuyin.cin.db"
         },
         {
+            "category": "pinying",
+            "cname": "通用拼音客家話 海陸腔",
+            "ename": "TP Hakka HoiLiuk",
+            "license": "tp_hakka_hl.cin  2007/11/03 20:47\n\n本檔是由陳念波 <nienpo@yahoo.com> 依據\n《台灣客家話辭典》編者徐兆泉老師提供的\n同音字檢索資料\n使用 python script 製作\n並加入「四海話」發音\n本檔案依據 Creative Commons 依「姓名標示」、「相同方式分享」、「禁止商業使用」\n授權，歡迎各界散佈及使用。\n授權詳情請參閱\n<http://creativecommons.org/licenses/by-nc-sa/2.5/tw/deed.zh_TW>\n客家話裏的「我」是用「亻厓」這個字，但此字的 unicode 編碼是 U+2028E，是十六進位的五位數，\n屬於 CJK Unified Ideographs Extension B, 含有此字的字型檔不是每個人都有。\n此 cin 檔含此字。但是，為了方便一般使用狀況，把「亻厓」這個字的發音\nnga̠i (四縣腔) ngai (海陸腔) 對應到「我」這個字。\n此檔含有 11 個 Privat Usage Area 編碼段 (U+E000 to U+F8FF) 的字，目前沒有收錄於\nunicode 中，是徐老師造的字。本檔另外以示意方式表示這些字，如 (亻恩)，並加入 LaTeX 組合\n這些字的指令 (使用 LaTeX 時可用)，應不會造成一般使用者的困擾。",
+            "name": "",
+            "path": "table/tp_hakka_hl.cin.db"
+        },
+        {
+            "category": "pinying",
+            "cname": "通用拼音客家話 四縣腔",
+            "ename": "TP Hakka SiYen",
+            "license": "tp_hakka_sy.cin  2007/11/03 20:46\n\n本檔是由陳念波 <nienpo@yahoo.com> 依據\n《台灣客家話辭典》編者徐兆泉老師提供的\n同音字檢索資料\n使用 python script 製作\n並加入「四海話」發音\n本檔案依據 Creative Commons 依「姓名標示」、「相同方式分享」、「禁止商業使用」\n授權，歡迎各界散佈及使用。\n授權詳情請參閱\n<http://creativecommons.org/licenses/by-nc-sa/2.5/tw/deed.zh_TW>\n客家話裏的「我」是用「亻厓」這個字，但此字的 unicode 編碼是 U+2028E，是十六進位的五位數，\n屬於 CJK Unified Ideographs Extension B, 含有此字的字型檔不是每個人都有。\n此 cin 檔含此字。但是，為了方便一般使用狀況，把「亻厓」這個字的發音\nnga̠i (四縣腔) ngai (海陸腔) 對應到「我」這個字。\n此檔含有 11 個 Privat Usage Area 編碼段 (U+E000 to U+F8FF) 的字，目前沒有收錄於\nunicode 中，是徐老師造的字。本檔另外以示意方式表示這些字，如 (亻恩)，並加入 LaTeX 組合\n這些字的指令 (使用 LaTeX 時可用)，應不會造成一般使用者的困擾。",
+            "name": "",
+            "path": "table/tp_hakka_sy.cin.db"
+        },
+        {
             "category": "zhuyin",
             "cname": "吳語注音法（正體）",
             "ename": "Wu Phonetic (Traditional)",
@@ -310,7 +342,13 @@
         "array26.cin.db": {
             "github": 1
         },
+        "array30-OkidoKey-big-phrase.cin.db": {
+            "github": 8
+        },
         "array30-OkidoKey-big.cin.db": {
+            "github": 5
+        },
+        "array30-OkidoKey-phrase.cin.db": {
             "github": 5
         },
         "array30-OkidoKey.cin.db": {
@@ -403,6 +441,12 @@
         "taiwain-minnan-zhuyin.cin.db": {
             "github": 1
         },
+        "tp_hakka_hl.cin.db": {
+            "github": 1
+        },
+        "tp_hakka_sy.cin.db": {
+            "github": 1
+        },
         "wut.cin.db": {
             "github": 1
         },
@@ -410,5 +454,5 @@
             "github": 4
         }
     },
-    "version": "20250719192530"
+    "version": "20250820171315"
 }
