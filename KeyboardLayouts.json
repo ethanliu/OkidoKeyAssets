@@ -1164,7 +1164,25 @@
                 "[Z:心][X:水][C:七][V:禾][B:馬][N:魚][M:雨][,:力][.:點][/:竹]",
                 "[next][shift][globe][space][del][return]"
             ],
-            "description": "大易"
+            "description": "大易",
+            "popups": {
+                ",": [
+                    "，",
+                    "！",
+                    "<"
+                ],
+                ".": [
+                    "。",
+                    "？",
+                    "•",
+                    ">"
+                ],
+                "/": [
+                    "?",
+                    "!",
+                    "\\"
+                ]
+            }
         },
         "dayi-6row": {
             "category": "dayi",
@@ -1176,7 +1194,25 @@
                 "[Z:心][X:水][C:七][V:禾][B:馬][N:魚][M:雨][,:力][.:點][/:竹]",
                 "[next][globe][space][return]"
             ],
-            "description": "大易(6R)"
+            "description": "大易(6R)",
+            "popups": {
+                ",": [
+                    "，",
+                    "！",
+                    "<"
+                ],
+                ".": [
+                    "。",
+                    "？",
+                    "•",
+                    ">"
+                ],
+                "/": [
+                    "?",
+                    "!",
+                    "\\"
+                ]
+            }
         },
         "dayi-fullsize": {
             "category": "dayi",
@@ -1187,7 +1223,25 @@
                 "[shift][Z:心][X:水][C:七][V:禾][B:馬][N:魚][M:雨][,:力][.:點][/:竹][shift]",
                 "[next][globe][space][next][dismiss]"
             ],
-            "description": "大易"
+            "description": "大易",
+            "popups": {
+                ",": [
+                    "，",
+                    "！",
+                    "<"
+                ],
+                ".": [
+                    "。",
+                    "？",
+                    "•",
+                    ">"
+                ],
+                "/": [
+                    "?",
+                    "!",
+                    "\\"
+                ]
+            }
         },
         "dayi-pad": {
             "category": "dayi",
@@ -1198,7 +1252,25 @@
                 "[shift][Z:心][X:水][C:七][V:禾][B:馬][N:魚][M:雨][,:力][.:點][/:竹][shift]",
                 "[next][globe][space][next][dismiss]"
             ],
-            "description": "大易"
+            "description": "大易",
+            "popups": {
+                ",": [
+                    "，",
+                    "！",
+                    "<"
+                ],
+                ".": [
+                    "。",
+                    "？",
+                    "•",
+                    ">"
+                ],
+                "/": [
+                    "?",
+                    "!",
+                    "\\"
+                ]
+            }
         },
         "dvorak": {
             "category": "dvorak",
@@ -1792,6 +1864,17 @@
             ],
             "description": "筆順輸入法"
         },
+        "stroke-cbs-choco": {
+            "category": "stroke",
+            "charsets": [
+                "[esc][1:豎][2:橫][3:水][del]",
+                "[(][4:火][5:順][6:逆][*:＊]",
+                "[“][7:撇][8:捺][9][？]",
+                "[：][，][0:口][。][！]",
+                "[next][globe][space][return]"
+            ],
+            "description": "中易輸入法"
+        },
         "stroke-g6code-choco": {
             "category": "stroke",
             "charsets": [
@@ -1943,5 +2026,5 @@
             "description": "吳守禮臺語注音"
         }
     },
-    "version": "20250717163359"
+    "version": "20260126163852"
 }

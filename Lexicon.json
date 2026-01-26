@@ -1,64 +1,64 @@
 {
     "resources": [
         {
-            "description": "# CC-CEDICT (簡)\n\nCC-CEDICT - CC 3.0\nhttps://www.mdbg.net/chinese/dictionary?page=cc-cedict\n\n### 關於 CC-CEDICT\n\nCC-CEDICT is a continuation of the CEDICT project.\nThe objective of the CEDICT project was to create an online,\ndownloadable (as opposed to searchable-only) public-domain Chinese-English dictionary.\nCEDICT was started by Paul Andrew Denisowski in October 1997.\nFor the most part, the project is modeled on Jim Breen's highly\nsuccessful EDICT (Japanese-English dictionary) project and is intended to be a\ncollaborative effort, with users providing entries and corrections to the main file.\n\n### 關於本詞庫\n\n本詞庫來源版本：2020_20240926\n\n取簡體中文字詞及拼音資料。\n保留以 xx5 表示一些無法標示音標的字詞。\n\n#### 詞庫範例\n\n```\n比利时\tbi3 li4 shi2\n搬兵\tban1 bing1\n撇大条\tpie3 da4 tiao2\n放射病\tfang4 she4 bing4\n绕弯子儿\trao4 wan1 zi3 r5\n砂子\tsha1 zi5\n削铅笔机\txiao1 qian1 bi3 ji1\n通城\ttong1 cheng2\n糜费\tmi2 fei4\n吧台\tba1 tai2\n```\n\n",
+            "description": "# CC-CEDICT (簡)\n\nCC-CEDICT - CC 3.0\nhttps://www.mdbg.net/chinese/dictionary?page=cc-cedict\n\n### 關於 CC-CEDICT\n\nCC-CEDICT is a continuation of the CEDICT project.\nThe objective of the CEDICT project was to create an online,\ndownloadable (as opposed to searchable-only) public-domain Chinese-English dictionary.\nCEDICT was started by Paul Andrew Denisowski in October 1997.\nFor the most part, the project is modeled on Jim Breen's highly\nsuccessful EDICT (Japanese-English dictionary) project and is intended to be a\ncollaborative effort, with users providing entries and corrections to the main file.\n\n### 關於本詞庫\n\n本詞庫來源版本：2020_20240926\n\n取簡體中文字詞及拼音資料。\n保留以 xx5 表示一些無法標示音標的字詞。\n\n#### 詞庫範例\n\n```\n劈离\tpi1 li2\n相容条件\txiang1 rong2 tiao2 jian4\n普林斯顿\tpu3 lin2 si1 dun4\n步足\tbu4 zu2\n前桥\tqian2 qiao2\n棕绳\tzong1 sheng2\n旧约全书\tjiu4 yue1 quan2 shu1\n可导\tke3 dao3\n戴秉国\tdai4 bing3 guo2\n路德维希\tlu4 de2 wei2 xi1\n```\n\n",
             "name": "CC-CEDICT (簡)",
             "path": "lexicon/cedict-hans.csv.db"
         },
         {
-            "description": "# CC-CEDICT (繁)\n\nCC-CEDICT - CC 3.0\nhttps://www.mdbg.net/chinese/dictionary?page=cc-cedict\n\n### 關於 CC-CEDICT\n\nCC-CEDICT is a continuation of the CEDICT project.\nThe objective of the CEDICT project was to create an online,\ndownloadable (as opposed to searchable-only) public-domain Chinese-English dictionary.\nCEDICT was started by Paul Andrew Denisowski in October 1997.\nFor the most part, the project is modeled on Jim Breen's highly\nsuccessful EDICT (Japanese-English dictionary) project and is intended to be a\ncollaborative effort, with users providing entries and corrections to the main file.\n\n### 關於本詞庫\n\n本詞庫來源版本：2020_20240926\n\n取繁體中文字詞及拼音資料。\n保留以 xx5 表示一些無法標示音標的字詞。\n\n#### 詞庫範例\n\n```\n各持己見\tge4 chi2 ji3 jian4\n外邊兒\twai4 bian5 r5\n板門店停戰村\tban3 men2 dian4 ting2 zhan4 cun1\n蚌殼\tbang4 ke2\n鐵軌\ttie3 gui3\n雞肉\tji1 rou4\n空白支票\tkong4 bai2 zhi1 piao4\n傳感\tchuan2 gan3\n混雜\thun4 za2\n來得及\tlai2 de5 ji2\n```\n\n",
+            "description": "# CC-CEDICT (繁)\n\nCC-CEDICT - CC 3.0\nhttps://www.mdbg.net/chinese/dictionary?page=cc-cedict\n\n### 關於 CC-CEDICT\n\nCC-CEDICT is a continuation of the CEDICT project.\nThe objective of the CEDICT project was to create an online,\ndownloadable (as opposed to searchable-only) public-domain Chinese-English dictionary.\nCEDICT was started by Paul Andrew Denisowski in October 1997.\nFor the most part, the project is modeled on Jim Breen's highly\nsuccessful EDICT (Japanese-English dictionary) project and is intended to be a\ncollaborative effort, with users providing entries and corrections to the main file.\n\n### 關於本詞庫\n\n本詞庫來源版本：2020_20240926\n\n取繁體中文字詞及拼音資料。\n保留以 xx5 表示一些無法標示音標的字詞。\n\n#### 詞庫範例\n\n```\n鼠蚤型斑疹傷寒\tshu3 zao3 xing2 ban1 zhen3 shang1 han2\n生存\tsheng1 cun2\n陰私\tyin1 si1\n遺訓\tyi2 xun4\n享譽\txiang3 yu4\n望女成鳳\twang4 nu3 cheng2 feng4\n羅盛教\tluo2 cheng2 jiao4\n發射機\tfa1 she4 ji1\n單絲不成線，獨木不成林\tdan1 si1 bu4 cheng2 xian4 du2 mu4 bu4 cheng2 lin2\n凡俗\tfan2 su2\n```\n\n",
             "name": "CC-CEDICT (繁)",
             "path": "lexicon/cedict-hant.csv.db"
         },
         {
-            "description": "# 结巴中文分词(简体)\n\n结巴中文分词 - MIT\nhttps://github.com/fxsjy/jieba\n\n### 關於结巴中文分词\n\n“结巴”中文分词：做最好的 Python 中文分词组件\n\n### 關於本詞庫\n\n本詞庫字詞及詞頻取自結巴中文分詞的詞典 dict.txt 版本。\n取其字詞及詞頻，原始資料未包含拼音資料，因此以對照字詞產生拼音。\n\n#### 詞庫範例\n\n```\n千美元\tqian1 mei3 yuan2\n圆攒尖\tyuan2 zan3 jian1\n判起来\tpan4 qi3 lai2\n耶律克\tye2 lv4 ke4\n母髦智\tmu3 mao2 zhi4\n轧空\tya4 kong1\n国朝诗\tguo2 chao2 shi1\n学馆\txue2 guan3\n赤金\tchi4 jin1\n石头砸\tshi2 tou5 za2\n```\n\n",
+            "description": "# 结巴中文分词(简体)\n\n结巴中文分词 - MIT\nhttps://github.com/fxsjy/jieba\n\n### 關於结巴中文分词\n\n“结巴”中文分词：做最好的 Python 中文分词组件\n\n### 關於本詞庫\n\n本詞庫字詞及詞頻取自結巴中文分詞的詞典 dict.txt 版本。\n取其字詞及詞頻，原始資料未包含拼音資料，因此以對照字詞產生拼音。\n\n#### 詞庫範例\n\n```\n薛志鹏\txue1 zhi4 peng2\n卓不凡\tzhuo2 bu4 fan2\n一时半霎\tyi1 shi2 ban4 sha4\n黑烟\thei1 yan1\n参团\tcan1 tuan2\n绩分\tji4 fen1\n滑寿善\thua2 shou4 shan4\n丁志诚\tding1 zhi4 cheng2\n改过迁善\tgai3 guo4 qian1 shan4\n私人访问\tsi1 ren2 fang3 wen4\n```\n\n",
             "name": "结巴中文分词(简体)",
             "path": "lexicon/jieba.csv.db"
         },
         {
-            "description": "# Rime 粵語拼音方案\n\nRime 粵語拼音方案 - 共享創意-姓名標示 4.0 國際 (CC BY 4.0)\nhttps://github.com/rime/rime-cantonese\n\n### 關於 Rime 粵語拼音方案\n\n本方案凈支持「香港語言學學會粵語拼音方案」（簡稱「粵拼」）：\n\n- Jyutping 粵拼 | lshk\n- 粵拼：香港語言學學會粵語拼音方案\n- 香港語言學學會粵語拼音方案\n\n### 關於本詞庫\n\n本詞庫來源版本：2023.06.01\n\n本詞庫使用 Rime 粵語拼音方案 jyut6ping3.words.dict.yaml 檔案。\n依原詞頻規則轉換為泛用型數值詞頻。\n\n#### 詞庫範例\n\n```\n重振\tcung4 zan3\n硬紙板\tngaang6 zi2 baan2\n帶兩梳蕉\tdaai3 loeng5 so1 ziu1\n不毛\tbat1 mou4\n勢不兩立\tsai3 bat1 loeng5 laap6\n快餐交友\tfaai3 caan1 gaau1 jau5\n中心語\tzung1 sam1 jyu5\n裝模作樣\tzong1 mou4 zok3 joeng6\n戰場\tzin3 coeng4\n孤丁丁\tgu1 ding1 ding1\n```\n\n",
+            "description": "# Rime 粵語拼音方案\n\nRime 粵語拼音方案 - 共享創意-姓名標示 4.0 國際 (CC BY 4.0)\nhttps://github.com/rime/rime-cantonese\n\n### 關於 Rime 粵語拼音方案\n\n本方案凈支持「香港語言學學會粵語拼音方案」（簡稱「粵拼」）：\n\n- Jyutping 粵拼 | lshk\n- 粵拼：香港語言學學會粵語拼音方案\n- 香港語言學學會粵語拼音方案\n\n### 關於本詞庫\n\n本詞庫來源版本：2025.12.24\n\n本詞庫使用 Rime 粵語拼音方案 jyut6ping3.words.dict.yaml 檔案。\n依原詞頻規則轉換為泛用型數值詞頻。\n\n#### 詞庫範例\n\n```\n獨居\tduk6 geoi1\n做咩問呢\tzou6 me1 man6 le1\n摯誠\tzi3 sing4\n應急待命\tjing3 gap1 doi6 ming6\n伴儅\tbun6 dong3\n樹大有枯枝，族大有乞兒\tsyu6 daai6 jau5 fu1 zi1 zuk6 daai6 jau5 hat1 ji1\n擸架撐\tlaap3 gaa3 caang1\n挨次\taai1 ci3\n夢語\tmung6 jyu5\n黑白天鵝\thak1 baak6 tin1 ngo4\n```\n\n",
             "name": "Rime 粵語拼音方案",
             "path": "lexicon/jyutping.csv.db"
         },
         {
-            "description": "# 小麥注音輸入法詞庫\n\nOpenVanilla McBopomofo 小麥注音輸入法 - MIT License\nhttps://github.com/openvanilla/McBopomofo\n\n### 關於小麥注音輸入法\n\n小麥注音的輸入法引擎是 Gramambular，這是一套在 2010 年開發釋出的 open source 中文斷字引擎。斷字跟選字的原理相近，我們利用這個特性，加上網路上公開可使用的語料與讀音資料，整理成小麥注音的資料庫。\n\n### 關於本詞庫\n\n本詞庫來源版本：2.9.3\n\n取其 phrase.occ 及對照表 BPMFMappings.txt 中的注音符號，將注音轉換為漢語拼音。\n\n#### 詞庫範例\n\n```\n養蝦戶\tyang3 xia1 hu4\n提回去\tti2 hui2 qu4\n麻豆文旦\tma2 dou4 wen2 dan4\n頌聲載道\tsong4 sheng1 zai3 dao4\n肅清\tsu4 qing1\n潛航\tqian2 hang2\n冷作工\tleng3 zuo4 gong1\n恭賀\tgong1 he4\n人工湖\tren2 gong1 hu2\n周慧敏\tzhou1 hui4 min3\n```\n\n",
+            "description": "# 小麥注音輸入法詞庫\n\nOpenVanilla McBopomofo 小麥注音輸入法 - MIT License\nhttps://github.com/openvanilla/McBopomofo\n\n### 關於小麥注音輸入法\n\n小麥注音的輸入法引擎是 Gramambular，這是一套在 2010 年開發釋出的 open source 中文斷字引擎。斷字跟選字的原理相近，我們利用這個特性，加上網路上公開可使用的語料與讀音資料，整理成小麥注音的資料庫。\n\n### 關於本詞庫\n\n本詞庫來源版本：2.9.5\n\n取其 phrase.occ 及對照表 BPMFMappings.txt 中的注音符號，將注音轉換為漢語拼音。\n\n#### 詞庫範例\n\n```\n管風琴\tguan3 feng1 qin2\n各作\tge4 zuo4\n案發\tan4 fa1\n剛愎自用\tgang1 bi4 zi4 yong4\n金聲\tjin1 sheng1\n巢穴\tchao2 xue4\n吹鼓手\tchui1 gu3 shou3\n力拚\tli4 pan4\n男女平等\tnan2 nu3 ping2 deng3\n存心\tcun2 xin1\n```\n\n",
             "name": "小麥注音輸入法詞庫",
             "path": "lexicon/mcbopomofo.csv.db"
         },
         {
-            "description": "# 教育部《國語辭典簡編本》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《國語辭典簡編本》\n\n主要適用對象：國中、小學生及學習華語人士。\n\n* 為一部有聲音及圖片之多媒體辭典，收詞以字詞頻統計結果為依據，釋義行文則採淺白語體編寫。\n* 本辭典所收的字音，參照教育部公布之「國語一字多音審訂表」，並經審音委員會審訂決議。\n\n### 關於本詞庫\n\n本詞庫來源版本：2014_20240926\n\n- 取其「字詞名」及「注音一式」欄位。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為漢語拼音。\n\n#### 詞庫範例\n\n```\n野蠻\tye3 man2\n腎臟\tshen4 zang4\n連夜\tlian2 ye4\n拔擢\tba2 zhuo2\n輪作\tlun2 zuo4\n違禁\twei2 jin4\n小姑娘\txiao3 gu1 None5\n呈報\tcheng2 bao4\n罕有\than3 you3\n退潮\ttui4 chao2\n```\n\n",
+            "description": "# 教育部《國語辭典簡編本》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《國語辭典簡編本》\n\n主要適用對象：國中、小學生及學習華語人士。\n\n* 為一部有聲音及圖片之多媒體辭典，收詞以字詞頻統計結果為依據，釋義行文則採淺白語體編寫。\n* 本辭典所收的字音，參照教育部公布之「國語一字多音審訂表」，並經審音委員會審訂決議。\n\n### 關於本詞庫\n\n本詞庫來源版本：2014_20240926\n\n- 取其「字詞名」及「注音一式」欄位。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為漢語拼音。\n\n#### 詞庫範例\n\n```\n出招\tchu1 zhao1\n大肚子\tda4 du4 zi5\n涵洞\than2 dong4\n平均\tping2 jun1\n拍擊\tpai1 ji2\n率然\tshuai4 ran2\n蓄水\txu4 shui3\n放款\tfang4 kuan3\n反璞歸真\tfan3 pu2 gui1 zhen1\n人才\tren2 cai2\n```\n\n",
             "name": "教育部《國語辭典簡編本》",
             "path": "lexicon/moe-concised.csv.db"
         },
         {
-            "description": "# 教育部《臺灣客語辭典》\n\n教育部《臺灣客家語常用詞辭典》辭典系統於 97 年 5 月公開試用版，經資料修訂及系統重新建置後，於 108 年 11 月改版上線。並另建置「客家語姓名拼音查詢」網站，於 109 年 9 月底上線試用版。而後採六腔平行架構新編辭典，《新編客家語六腔辭典》於 110 年 4 月系統上線。於 112 年將《臺灣客家語常用詞辭典》、《新編客家語六腔辭典》及「客家語姓名查詢網站」進行資料整合及系統網站功能改版作業，更名為教育部《臺灣客語辭典》。\n\nhttps://hakkadict.moe.edu.tw\n\n### 關於《萌典》\n\n萌典共收錄十六萬筆臺灣華語、兩萬筆臺灣台語、一萬四千筆臺灣客語條目，並支援「自動完成」功能及「%_ *? ^.$」等萬用字元。\n\n原始資料來源為教育部《重編國語辭典修訂本》（CC BY-ND 3.0 臺灣授權）、《臺灣台語常用詞辭典》（CC BY-ND 3.0 臺灣授權）及《臺灣客語辭典》（CC BY-ND 3.0 臺灣），辭典本文的著作權仍為教育部所有。\n\nhttps://www.moedict.tw\n\n### 關於本詞庫\n\n採用萌典已處理過的索引檔 h/index.json\n\n#### 詞庫範例\n\n```\n以下\t\n生腸\t\n竳線\t\n貶面\t\n質問\t\n少食多香氣，多食無味緒\t\n隔山打銅鑼－－聽毋著\t\n問安\t\n拗腰\t\n弓箭\t\n```\n\n",
+            "description": "# 教育部《臺灣客語辭典》\n\n教育部《臺灣客家語常用詞辭典》辭典系統於 97 年 5 月公開試用版，經資料修訂及系統重新建置後，於 108 年 11 月改版上線。並另建置「客家語姓名拼音查詢」網站，於 109 年 9 月底上線試用版。而後採六腔平行架構新編辭典，《新編客家語六腔辭典》於 110 年 4 月系統上線。於 112 年將《臺灣客家語常用詞辭典》、《新編客家語六腔辭典》及「客家語姓名查詢網站」進行資料整合及系統網站功能改版作業，更名為教育部《臺灣客語辭典》。\n\nhttps://hakkadict.moe.edu.tw\n\n### 關於《萌典》\n\n萌典共收錄十六萬筆臺灣華語、兩萬筆臺灣台語、一萬四千筆臺灣客語條目，並支援「自動完成」功能及「%_ *? ^.$」等萬用字元。\n\n原始資料來源為教育部《重編國語辭典修訂本》（CC BY-ND 3.0 臺灣授權）、《臺灣台語常用詞辭典》（CC BY-ND 3.0 臺灣授權）及《臺灣客語辭典》（CC BY-ND 3.0 臺灣），辭典本文的著作權仍為教育部所有。\n\nhttps://www.moedict.tw\n\n### 關於本詞庫\n\n採用萌典已處理過的索引檔 h/index.json\n\n#### 詞庫範例\n\n```\n財政\t\n對半\t\n住址\t\n割香\t\n三交代四吩咐\t\n貨車\t\n掘窟\t\n復興\t\n了解\t\n本師\t\n```\n\n",
             "name": "教育部《臺灣客語辭典》",
             "path": "lexicon/moe-hakka.csv.db"
         },
         {
-            "description": "# 教育部《成語典》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《成語典》\n\n主要適用對象：語文教學者與學生。\n\n每條成語除釋義、音讀，另有典故原文及其白話譯注、用法說明、例句等，內容豐富。\n\n### 關於本詞庫\n\n本詞庫來源版本：2020_20240926\n\n- 取其「成語」及「注音」欄位。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為漢語拼音。\n\n#### 詞庫範例\n\n```\n一舉兩全\tyi1 ju3 liang3 quan2\n一隙不通\tyi2 xi4 bu4 tong1\n憂心如焚\tyou1 xin1 ru2 fen2\n後恭前倨\thou4 gong1 qian2 ju4\n饑者無擇\tji1 zhe3 wu2 ze2\n情不自勝\tqing2 bu2 zi4 sheng1\n因陋就寡\tyin1 lou4 jiu4 gua3\n不阿不撓\tbu4 e1 bu4 nao2\n狼心狗意\tlang2 xin1 gou3 yi4\n付之一哂\tfu4 zhi1 yi4 shen3\n```\n\n",
+            "description": "# 教育部《成語典》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《成語典》\n\n主要適用對象：語文教學者與學生。\n\n每條成語除釋義、音讀，另有典故原文及其白話譯注、用法說明、例句等，內容豐富。\n\n### 關於本詞庫\n\n本詞庫來源版本：2020_20240926\n\n- 取其「成語」及「注音」欄位。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為漢語拼音。\n\n#### 詞庫範例\n\n```\n同病相憐\ttong2 bing4 xiang1 lian2\n小心翼翼\txiao3 xin1 yi4 yi4\n大刀闊斧\tda4 dao1 kuo4 fu3\n衣冠齊楚\tyi1 guan1 ji3 chu3\n望眼將穿\twang4 yan3 jiang1 chuan1\n出乎反乎\tchu1 hu1 fan3 hu1\n壽陵忘步\tshou4 ling2 wang4 bu4\n當仁不遜\tdang1 ren2 bu2 xun4\n見義勇往\tjian4 yi4 yong3 wang3\n眾口銷金\tzhong4 kou3 xiao1 jin1\n```\n\n",
             "name": "教育部《成語典》",
             "path": "lexicon/moe-idioms.csv.db"
         },
         {
-            "description": "# 教育部《重編國語辭典 修訂本》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《重編國語辭典 修訂本》\n\n主要適用對象：對歷史語言有興趣的研究者。\n\n本典為一部歷史語言辭典，記錄中古至現代各類詞語，並大量引用古典文獻書證，字音部分則兼收現代及傳統音讀。\n\n### 關於本詞庫\n\n本詞庫來源版本：2015_20240927\n\n- 取其「字詞名」及「注音一式」欄位。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為漢語拼音。\n\n#### 詞庫範例\n\n```\n琴瑟失調\tqin2 se4 shi1 tiao2\n水酒\tshui3 jiu3\n閒言長語\txian2 yan2 chang2 yu3\n卑末\tbei1 mo4\n薄懲\tbo2 cheng2\n植株\tzhi2 zhu1\n班代表\tban1 dai4 biao3\n內行星\tnei4 xing2 xing1\n裸花\tluo3 hua1\n言過其實\tyan2 guo4 qi2 shi2\n```\n\n",
+            "description": "# 教育部《重編國語辭典 修訂本》\n\n教育部國語辭典公眾授權網 - 創用 CC-姓名標示- 禁止改作 3.0 臺灣授權條款\nhttps://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html\n\n### 關於《重編國語辭典 修訂本》\n\n主要適用對象：對歷史語言有興趣的研究者。\n\n本典為一部歷史語言辭典，記錄中古至現代各類詞語，並大量引用古典文獻書證，字音部分則兼收現代及傳統音讀。\n\n### 關於本詞庫\n\n本詞庫來源版本：2015_20240927\n\n- 取其「字詞名」及「注音一式」欄位。\n- 字詞不包含圖片或自訂字型的字詞。\n- 以注音資料轉換為漢語拼音。\n\n#### 詞庫範例\n\n```\n輪旋曲\tlun2 xuan2 qu3\n地下道\tdi4 xia4 dao4\n水火籃兒\tshui3 huo3 lan2\n孔雀王朝\tkong3 que4 wang2 chao2\n三變\tsan1 bian4\n接聲兒\tjie1 sheng1\n告幫\tgao4 bang1\n製造商\tzhi4 zao4 shang1\n大來頭\tda4 lai2 tou2\n堪稱\tkan1 cheng1\n```\n\n",
             "name": "教育部《重編國語辭典 修訂本》",
             "path": "lexicon/moe-revised.csv.db"
         },
         {
-            "description": "# 教育部《臺灣台語常用詞辭典》\n\n中華民國 112 年 6 月臺灣學術網路第二版（現已於 113 年 8 月依「國家語言整體發展方案」書面用語之規範更名為《臺灣台語常用詞辭典》）\n\nhttps://sutian.moe.edu.tw\n\n### 關於《萌典》\n\n萌典共收錄十六萬筆臺灣華語、兩萬筆臺灣台語、一萬四千筆臺灣客語條目，並支援「自動完成」功能及「%_ *? ^.$」等萬用字元。\n\n原始資料來源為教育部《重編國語辭典修訂本》（CC BY-ND 3.0 臺灣授權）、《臺灣台語常用詞辭典》（CC BY-ND 3.0 臺灣授權）及《臺灣客語辭典》（CC BY-ND 3.0 臺灣），辭典本文的著作權仍為教育部所有。\n\nhttps://www.moedict.tw\n\n### 關於本詞庫\n\n採用萌典已處理過的索引檔 t/index.json\n\n#### 詞庫範例\n\n```\n不幸\t\n弟婦仔\t\n遠親\t\n過火\t\n肝炎\t\n車幫\t\n哭爸哭母\t\n齊頭\t\n意義\t\n做對\t\n```\n\n",
+            "description": "# 教育部《臺灣台語常用詞辭典》\n\n中華民國 112 年 6 月臺灣學術網路第二版（現已於 113 年 8 月依「國家語言整體發展方案」書面用語之規範更名為《臺灣台語常用詞辭典》）\n\nhttps://sutian.moe.edu.tw\n\n### 關於《萌典》\n\n萌典共收錄十六萬筆臺灣華語、兩萬筆臺灣台語、一萬四千筆臺灣客語條目，並支援「自動完成」功能及「%_ *? ^.$」等萬用字元。\n\n原始資料來源為教育部《重編國語辭典修訂本》（CC BY-ND 3.0 臺灣授權）、《臺灣台語常用詞辭典》（CC BY-ND 3.0 臺灣授權）及《臺灣客語辭典》（CC BY-ND 3.0 臺灣），辭典本文的著作權仍為教育部所有。\n\nhttps://www.moedict.tw\n\n### 關於本詞庫\n\n採用萌典已處理過的索引檔 t/index.json\n\n#### 詞庫範例\n\n```\n門閂\t\n好死毋死\t\n鯉魚\t\n血液\t\n拗彎\t\n歹食\t\n公事\t\n跋一倒，抾著一隻金雞母。\t\n靈巧\t\n三界公\t\n```\n\n",
             "name": "教育部《臺灣台語常用詞辭典》",
             "path": "lexicon/moe-sutian.csv.db"
         }
     ],
     "splits": {
         "cedict-hans.csv.db": {
-            "github": 6,
-            "gitlab": 6
+            "github": 7,
+            "gitlab": 7
         },
         "cedict-hant.csv.db": {
-            "github": 6,
-            "gitlab": 6
+            "github": 7,
+            "gitlab": 7
         },
         "jieba.csv.db": {
             "github": 20,
@@ -73,8 +73,8 @@
             "gitlab": 8
         },
         "moe-concised.csv.db": {
-            "github": 2,
-            "gitlab": 2
+            "github": 3,
+            "gitlab": 3
         },
         "moe-hakka.csv.db": {
             "github": 1,
@@ -85,13 +85,13 @@
             "gitlab": 1
         },
         "moe-revised.csv.db": {
-            "github": 8,
-            "gitlab": 8
+            "github": 9,
+            "gitlab": 9
         },
         "moe-sutian.csv.db": {
             "github": 1,
             "gitlab": 1
         }
     },
-    "version": "20250916151345"
+    "version": "20260126163913"
 }
