@@ -36,7 +36,7 @@
             "category": "array",
             "cname": "行列30-大字集(詞庫版)",
             "ename": "array30-big-phrase",
-            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n此表格包含簡碼 (%shortcode) 及特別碼 (%special)\n及行列輸入法官方收錄 6 萬詞的詞庫檔\n\n大字集版 (big)：完整收錄 Unicode 內碼為 4 位數及 5 位數 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G 字集範圍。\n\n2021/07/25 新增行列輸入法官方收錄 6 萬詞的詞庫檔（原先收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法作者廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，於開發行列輸入法軟體時採用）。\n行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「行列教室」之說明。",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2026-1.0), 2026-04-06\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n此表格包含簡碼 (%shortcode) 及特別碼 (%special)\n及行列輸入法官方收錄 6 萬詞的詞庫檔\n\n大字集版 (big)：完整收錄 Unicode 內碼為 4 位數及 5 位數 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G 字集範圍。\n\n2021/07/25 新增行列輸入法官方收錄 6 萬詞的詞庫檔（原先收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法作者廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，於開發行列輸入法軟體時採用）。\n行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「行列教室」之說明。",
             "name": "",
             "path": "table/array30-OkidoKey-big-phrase.cin.db"
         },
@@ -44,7 +44,7 @@
             "category": "array",
             "cname": "行列30-大字集",
             "ename": "array30-big",
-            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2023-1.0), 2023-02-11\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n此表格包含簡碼 (%shortcode) 及特別碼 (%special)\n\n大字集版 (big)：完整收錄 Unicode 內碼為 4 位數及 5 位數 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G 字集範圍。",
+            "license": "行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2026-1.0), 2026-04-06\n官方下載網址 https://github.com/gontera/array30\n有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki\n\n此表格包含簡碼 (%shortcode) 及特別碼 (%special)\n\n大字集版 (big)：完整收錄 Unicode 內碼為 4 位數及 5 位數 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G 字集範圍。",
             "name": "",
             "path": "table/array30-OkidoKey-big.cin.db"
         },
@@ -172,7 +172,7 @@
             "category": "misc",
             "cname": "矧码",
             "ename": "ghcm",
-            "license": "build: 2026/04/04 17:10:57\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
+            "license": "build: 2026/04/06 15:08:09\n\n矧码 (ghcm)\nhttps://github.com/zeylei/ghcm\n\n方案名称：矧码\n方案作者：矧可射思\n更新日期：0x00\n\n本仓库中的矧码码表与官方 QQ 群 (461618919) 同步更新。\n由作者矧可射思授权，任何人皆可以修改、复制、转发，以及免费内建此词库（包括收费使用）。\n学习矧码请加 QQ 群 (461618919)。\n\n---\n\n此 cin 表格由 SM.dict.yaml 转换\n由于部份符号为 rime 另行定义，因此未能直接于 cin 表格中实现，此档仅包含「,」键符号。\n而「i」键原定义为直出「，」而非字根，但为统一输入行为，仍先将「i」键列为字根。",
             "name": "",
             "path": "table/ghcm.cin.db"
         },
@@ -495,5 +495,5 @@
             "gitlab": 4
         }
     },
-    "version": "20260404174851"
+    "version": "20260406151024"
 }
